@@ -67,6 +67,7 @@ A curated list of resources on Email tools, technology...
 ### Framework
 
 - [MJML](https://github.com/mjmlio/mjml) - Framework to make responsive-email easy 
+- [Maizzle](https://github.com/maizzle/framework) -  HTML email development framework 
 
 ### Templating
 
