@@ -20,6 +20,13 @@ A curated list of resources on Email tools, technology...
 - [Postal](https://github.com/postalserver/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail 
 - [iRedMail](https://iredmail.org/) - Open Source Mail Server Solution
 
+### Email Testing Application
+
+- [Blackhole](https://github.com/kura/blackhole) -  Blackhole is an MTA written on top of asyncio, utilising async and await statements that dumps all mail it receives to /dev/null.
+- [SMTP4dev](https://github.com/rnwood/smtp4dev) - the fake smtp email server for development and testing 
+- [Maildev](https://github.com/maildev/maildev) -  mailbox SMTP Server + Web Interface for viewing and testing emails during development.
+- [Inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required. 
+
 ### IMAP/POP Server
 
 - [Wildducj](https://wildduck.email/) -  Modern mail server software for IMAP and POP3. Modern being scalable, Unicode-first, and API-controlled
