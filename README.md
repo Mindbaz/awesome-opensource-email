@@ -19,6 +19,7 @@ A curated list of resources on Email tools, technology...
 - [Zone-MTA](https://github.com/zone-eu/zone-mta) - Modern outbound MTA cross platform and extendable server application in node
 - [Postal](https://github.com/postalserver/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail 
 - [iRedMail](https://iredmail.org/) - Open Source Mail Server Solution
+- [vSMTP](https://github.com/viridIT/vSMTP) - a next-gen mail transfer agent (MTA) written in Rust. Faster and Greener.
 
 ### Email Testing Application
 
