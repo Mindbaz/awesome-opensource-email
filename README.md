@@ -35,6 +35,8 @@ A curated list of resources on Email tools, technology...
 ### IMAP/POP Server
 
 - [Wildducj](https://wildduck.email/) -  Modern mail server software for IMAP and POP3. Modern being scalable, Unicode-first, and API-controlled
+- [Dovecot](https://github.com/dovecot/core) -  Dovecot mail server 
+- [Cyrus](https://github.com/cyrusimap/cyrus-imapd) - Cyrus IMAP is an email, contacts and calendar server
 
 ### Complete Email Server
 
@@ -110,15 +112,14 @@ A curated list of resources on Email tools, technology...
 
 ## Editing
 
-### Visual Editing Component
-
-- [React Email Editor](https://github.com/unlayer/react-email-editor) -  Drag-n-Drop Email Editor Component for React.js 
-- [GrapesJS](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding 
-- 
-
-### Builder
+### Email Builder & Visual Editing Component
 
 - [LePatron](https://github.com/Badsender-com/LePatron.email) -  LePatron is an opensource email builder allowing to industrialize your email template production. Build tailor made email templates and make them available to your non-technical users. 
+- [Mosaico](https://github.com/voidlabs/mosaico) - Responsive Email Template Editor 
+- [React Email Editor](https://github.com/unlayer/react-email-editor) -  Drag-n-Drop Email Editor Component for React.js 
+- [Vue Email Editor](https://github.com/unlayer/vue-email-editor) -  Drag-n-Drop Email Editor Component for Vue.js 
+- [GrapesJS](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding 
+- [MySigMail Card](https://github.com/mysigmail/card) - An open source html email template builder with drag & drop editor 
 
 ## Email Solution
 ### Groupware / Webmail
