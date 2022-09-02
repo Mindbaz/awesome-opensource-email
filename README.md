@@ -79,6 +79,7 @@ A curated list of resources on Email tools, technology...
 ### Marketing Platform
 
 - [Mautic](https://github.com/mautic/mautic) - Open Source Marketing Automation Software
+- [Sendportal](https://github.com/mettle/sendportal) - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost. 
 
 ### Newsletter Platform
 
