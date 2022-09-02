@@ -20,7 +20,7 @@ A curated list of resources on Email tools, technology...
 - [Postal](https://github.com/postalserver/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail 
 - [vSMTP](https://github.com/viridIT/vSMTP) - a next-gen mail transfer agent (MTA) written in Rust. Faster and Greener.
 - [Maddy](https://github.com/foxcpp/maddy) -  Composable all-in-one mail server.
-- [Chasquid] (https://github.com/albertito/chasquid) - SMTP (email) server with a focus on simplicity, security, and ease of operation
+- [Chasquid](https://github.com/albertito/chasquid) - SMTP (email) server with a focus on simplicity, security, and ease of operation
 - [MailWhale](https://github.com/muety/mailwhale) - A bring-your-own-SMTP-server mail relay with REST API and web UI 
 - [Cuttlefish](https://github.com/mlandauer/cuttlefish) - Transactional email server with a lovely web interface
 
@@ -48,7 +48,7 @@ A curated list of resources on Email tools, technology...
 ### SPAM Filtering
 
 - [Rspamd](https://github.com/rspamd/rspamd) - Advanced spam filtering system and email processing framework
-- 
+- [Spamscope](https://github.com/SpamScope/spamscope) -  Fast Advanced Spam Analysis Tool 
 
 ### Inbox API
 
