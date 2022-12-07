@@ -121,6 +121,8 @@ A curated list of resources on Email tools, technology...
 - [Vue Email Editor](https://github.com/unlayer/vue-email-editor) -  Drag-n-Drop Email Editor Component for Vue.js 
 - [GrapesJS](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding 
 - [MySigMail Card](https://github.com/mysigmail/card) - An open source html email template builder with drag & drop editor 
+- [Easy Email](https://github.com/zalify/easy-email) -  DnD Email Editor based on React.js and MJML. 
+- [Paperbits emails](https://github.com/paperbits/paperbits-emails) - Paperbits editors and generators for email templates. 
 
 ## Email Solution
 ### Groupware / Webmail
