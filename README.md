@@ -14,15 +14,18 @@ A curated list of resources on Email tools, technology...
 ## Sending
 ### SMTP Server
 
-- [Postfix](http://www.postfix.org/) - The most famous email server
-- [Haraka](https://haraka.github.io/) - A modern, high performance, flexible SMTP server in node
-- [Zone-MTA](https://github.com/zone-eu/zone-mta) - Modern outbound MTA cross platform and extendable server application in node
+- [Postfix](http://www.postfix.org/) - The most famous email server `IPL-1.0`, `C`
+- [Haraka](https://haraka.github.io/) - A modern, high performance, flexible SMTP server `Nodejs`
+- [Zone-MTA](https://github.com/zone-eu/zone-mta) - Modern outbound MTA cross platform and extendable server application `Nodejs`
 - [Postal](https://github.com/postalserver/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail 
-- [vSMTP](https://github.com/viridIT/vSMTP) - a next-gen mail transfer agent (MTA) written in Rust. Faster and Greener.
-- [Maddy](https://github.com/foxcpp/maddy) -  Composable all-in-one mail server.
-- [Chasquid](https://github.com/albertito/chasquid) - SMTP (email) server with a focus on simplicity, security, and ease of operation
+- [vSMTP](https://github.com/viridIT/vSMTP) - a next-gen mail transfer agent (MTA) written in Rust. Faster and Greener `Rust`
+- [Maddy](https://github.com/foxcpp/maddy) -  Composable all-in-one mail server `GPLv3`, `Go`
+- [Chasquid](https://github.com/albertito/chasquid) - SMTP (email) server with a focus on simplicity, security, and ease of operation `Ruby`
 - [MailWhale](https://github.com/muety/mailwhale) - A bring-your-own-SMTP-server mail relay with REST API and web UI 
-- [Cuttlefish](https://github.com/mlandauer/cuttlefish) - Transactional email server with a lovely web interface
+- [Cuttlefish](https://github.com/mlandauer/cuttlefish) - Transactional email server with a lovely web interface `AGPLv3`, `Ruby`
+- [DragonFly](https://github.com/corecode/dma) - A small MTA for home and office use `Linux`, `UNIX`, `BSD`, `C`
+- [hMailServer](https://www.hmailserver.com/) - A user friendly IMAP, SMTP and POP3 server with admin GUI and spam protection. `Windows`, `AGPLv3`, `C++`
+- [EmailRelay](https://emailrelay.sourceforge.net/) - A small SMTP and POP3 server that is easy to configure `Windows`, `Linux`, `OpenWrt`, `GPLv3`, `C++`
 
 ### Email Testing Application
 
@@ -109,7 +112,8 @@ A curated list of resources on Email tools, technology...
 - [Play-Mailer](https://github.com/playframework/play-mailer) - Play mailer plugin for Scala
 - [Sisimai](https://libsisimai.org/) - Mail Analyzing Interface: A library to parse RFC5322 bounce emails and generating structured data as JSON from parsed results. For Perl, Go & Ruby
 - [MailKit](https://github.com/jstedfast/MailKit) -  A cross-platform .NET library for IMAP, POP3, and SMTP.
-- [MimeKit](https://github.com/jstedfast/MimeKit) -  A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools. 
+- [MimeKit](https://github.com/jstedfast/MimeKit) -  A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
+- [Nodemailer](https://nodemailer.com/) - A Node.js library
 
 ## Editing
 
