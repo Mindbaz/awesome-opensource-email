@@ -77,7 +77,8 @@ A curated list of resources on Email tools, technology...
 
 ### Reputation
 
-- [Google Postmaster Datas](https://github.com/Mindbaz/python-gpostmaster-domains-datas) - Downloads and flattends datas from Google Postmaster Tools (GPT) 
+- [Google Postmaster Datas](https://github.com/Mindbaz/python-gpostmaster-domains-datas) - Downloads and flattends datas from Google Postmaster Tools (GPT)
+- [Python Hetrixtools Blacklist](https://github.com/Mindbaz/python-hetrixtools-blacklist) - Tool to retrieve @hetrixtools data from their API and store them in flat file or in a database
 
 ## Email Platform
 
