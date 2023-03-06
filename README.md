@@ -46,12 +46,14 @@ A curated list of resources on Email tools, technology...
 - [Mailu](https://github.com/Mailu/Mailu) -  Insular email distribution - mail server as Docker images 
 - [iRedMail](https://iredmail.org/) - Open Source Mail Server Solution
 - [Erooster Email Server](https://github.com/erooster-mail/erooster) -  A mail suite written in rust meant to be easy to use. 
-
+- [Zimbra Open Source Edition](https://www.zimbra.com/open-source-email-overview/) - A full featured email service.
+- [Modoboa](https://modoboa.org/en/) - Modoboa brings together Open Source's finest in a single interface.
 
 ### SPAM Filtering
 
-- [Rspamd](https://github.com/rspamd/rspamd) - Advanced spam filtering system and email processing framework
-- [Spamscope](https://github.com/SpamScope/spamscope) -  Fast Advanced Spam Analysis Tool 
+- [Rspamd](https://github.com/rspamd/rspamd) - Advanced spam filtering system and email processing framework.
+- [Spamscope](https://github.com/SpamScope/spamscope) -  Fast Advanced Spam Analysis Tool. 
+- [ASSP](https://sourceforge.net/p/assp/wiki/Main_Page/) - The Anti-Spam SMTP Proxy (ASSP).
 
 ### Inbox API
 
