@@ -74,6 +74,7 @@ A curated list of resources on Email tools, technology...
 
 - [Reacher](https://github.com/reacherhq) - Check if an email exists without sending any email.
 - [Mailchecker](https://github.com/FGRibreau/mailchecker) - Cross-language email validation. Backed by a database of over 55 000 throwable email domains.
+- [EmailValidator](https://github.com/egulias/EmailValidator) - PHP Email address validator 
 
 ### Reputation
 
@@ -117,6 +118,7 @@ A curated list of resources on Email tools, technology...
 - [MailKit](https://github.com/jstedfast/MailKit) -  A cross-platform .NET library for IMAP, POP3, and SMTP.
 - [MimeKit](https://github.com/jstedfast/MimeKit) -  A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
 - [Nodemailer](https://nodemailer.com/) - A Node.js library
+- [PHPMailer](https://github.com/PHPMailer/PHPMailer) -  The classic email sending library for PHP 
 
 ## Editing
 
