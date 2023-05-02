@@ -122,7 +122,7 @@ A curated list of resources on Email tools, technology...
 
 ### Other
 
--[Can I email](https://github.com/hteumeuleu/caniemail) - Can I email… Support tables for HTML and CSS in emails. 
+- [Can I email](https://github.com/hteumeuleu/caniemail) - Can I email… Support tables for HTML and CSS in emails. 
 
 ## Editing
 
