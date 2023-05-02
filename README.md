@@ -120,6 +120,10 @@ A curated list of resources on Email tools, technology...
 - [Nodemailer](https://nodemailer.com/) - A Node.js library
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) -  The classic email sending library for PHP 
 
+### Other
+
+-[Can I email](https://github.com/hteumeuleu/caniemail) - Can I email… Support tables for HTML and CSS in emails. 
+
 ## Editing
 
 ### Email Builder & Visual Editing Component
