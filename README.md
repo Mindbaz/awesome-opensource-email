@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://github.com/Mindbaz/awesome-email">
+  <a href="https://github.com/Mindbaz/awesome-opensource-email/">
     <img src="https://github.com/Mindbaz/awesome-email/blob/main/assets/icone.png" alt="Awesome Opensource Email">
   </a>
 </p>
 
-# awesome-email
+# awesome-opensource-email
 Awesome Opensource Email Resources
 
-A curated list of resources on Email tools, technology...
+A curated list of resources on Email tools, server, framework, technology...
 
 ## Contents
 
