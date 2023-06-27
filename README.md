@@ -62,7 +62,8 @@ A curated list of resources on Email tools, technology...
 
 ### Forwarding
 
-- [Forward Email](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains. Visit our website to get started (SMTP server) 
+- [Forward Email](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains. Visit our website to get started (SMTP server)
+- [Anonaddy](https://github.com/anonaddy/anonaddy) -  Anonymous email forwarding 
 
 ### SMTP Testing
 
