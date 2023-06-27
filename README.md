@@ -15,6 +15,7 @@ A curated list of resources on Email tools, server, framework, technology...
 ### SMTP Server
 
 - [Postfix](http://www.postfix.org/) - The most famous email server `IPL-1.0`, `C`
+- [KumoMTA](https://github.com/KumoCorp/kumomta) - The first Open-Source high-performance MTA developed from the ground-up for high-volume email sending environments. `Rust`, `Lua`
 - [Haraka](https://haraka.github.io/) - A modern, high performance, flexible SMTP server `Nodejs`
 - [Zone-MTA](https://github.com/zone-eu/zone-mta) - Modern outbound MTA cross platform and extendable server application `Nodejs`
 - [Postal](https://github.com/postalserver/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail 
