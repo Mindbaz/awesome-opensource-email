@@ -26,6 +26,7 @@ A curated list of resources on Email tools, technology...
 - [DragonFly](https://github.com/corecode/dma) - A small MTA for home and office use `Linux`, `UNIX`, `BSD`, `C`
 - [hMailServer](https://www.hmailserver.com/) - A user friendly IMAP, SMTP and POP3 server with admin GUI and spam protection. `Windows`, `AGPLv3`, `C++`
 - [EmailRelay](https://emailrelay.sourceforge.net/) - A small SMTP and POP3 server that is easy to configure `Windows`, `Linux`, `OpenWrt`, `GPLv3`, `C++`
+- [Stalwart SMTP](https://stalw.art/smtp/) - Stalwart SMTP is a modern SMTP server developed in Rust with a focus on security, speed, and extensive configurability `AGPLv3`, `Rust`
 
 ### Email Testing Application
 
@@ -40,6 +41,11 @@ A curated list of resources on Email tools, technology...
 - [Wildducj](https://wildduck.email/) -  Modern mail server software for IMAP and POP3. Modern being scalable, Unicode-first, and API-controlled
 - [Dovecot](https://github.com/dovecot/core) -  Dovecot mail server 
 - [Cyrus](https://github.com/cyrusimap/cyrus-imapd) - Cyrus IMAP is an email, contacts and calendar server
+- [Stalwart IMAP server](https://github.com/stalwartlabs/imap-server) - Stalwart IMAP is an open-source Internet Message Access Protocol server designed to be secure, fast, robust and scalable
+
+### JMAP Server
+- [Stalwart JMAP server](https://github.com/stalwartlabs/jmap-server) - Stalwart JMAP is an open-source JSON Meta Application Protocol server designed to be secure, fast, robust and scalable
+
 
 ### Complete Email Server
 
@@ -48,7 +54,8 @@ A curated list of resources on Email tools, technology...
 - [Erooster Email Server](https://github.com/erooster-mail/erooster) -  A mail suite written in rust meant to be easy to use. 
 - [Zimbra Open Source Edition](https://www.zimbra.com/open-source-email-overview/) - A full featured email service.
 - [Modoboa](https://modoboa.org/en/) - Modoboa brings together Open Source's finest in a single interface.
-- [Mailinabox](https://github.com/Mindbaz/awesome-email) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box. 
+- [Mailinabox](https://github.com/Mindbaz/awesome-email) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+- [Excision-Mail](https://github.com/Excision-Mail/Excision-Mail) -  Fullstack, security focused, personal mail server based on OpenSMTPD for OpenBSD `ISC License`
 
 ### SPAM Filtering
 
@@ -94,7 +101,8 @@ A curated list of resources on Email tools, technology...
 ### Newsletter Platform
 
 - [Listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. 
-- [Mailtrain](https://github.com/Mailtrain-org/mailtrain) -  Self hosted newsletter app 
+- [Mailtrain](https://github.com/Mailtrain-org/mailtrain) -  Self hosted newsletter app
+- [Keila](https://github.com/pentacent/keila) - Keila is an Open Source alternative to newsletter tools like Mailchimp or Sendinblue.
 
 ## Code
 
