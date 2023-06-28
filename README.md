@@ -104,6 +104,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. 
 - [Mailtrain](https://github.com/Mailtrain-org/mailtrain) -  Self hosted newsletter app
 - [Keila](https://github.com/pentacent/keila) - Keila is an Open Source alternative to newsletter tools like Mailchimp or Sendinblue.
+- [phplist3](https://github.com/phpList/phplist3) - Fully functional Open Source email marketing manager for creating, sending, integrating, and analysing email campaigns and newsletters. 
 
 ## Code
 
