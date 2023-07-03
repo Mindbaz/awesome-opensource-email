@@ -78,6 +78,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing 
 - [MailCatcher](https://mailcatcher.me/) - Catches mail and serves it via a webui
 - [MailCrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
+- [MailPit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 
 ## Delivrability
 
