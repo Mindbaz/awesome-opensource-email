@@ -164,7 +164,8 @@ A curated list of resources on Email tools, server, framework, technology...
 ### Security Check
 
 - [Trustymail](https://github.com/cisagov/trustymail) -  Scan domains and return data based on trustworthy email best practices
-- [mailsec-check](https://github.com/foxcpp/mailsec-check) -  Another utility to analyze state of deployment of security-related email protocols. 
+- [mailsec-check](https://github.com/foxcpp/mailsec-check) -  Another utility to analyze state of deployment of security-related email protocols.
+- [E-Mail Header Analyzer](https://github.com/cyberdefenders/email-header-analyzer) - E-Mail Header Analyzer 
 
 
 ### DMARC
