@@ -28,6 +28,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [hMailServer](https://www.hmailserver.com/) - A user friendly IMAP, SMTP and POP3 server with admin GUI and spam protection. `Windows`, `AGPLv3`, `C++`
 - [EmailRelay](https://emailrelay.sourceforge.net/) - A small SMTP and POP3 server that is easy to configure `Windows`, `Linux`, `OpenWrt`, `GPLv3`, `C++`
 - [Stalwart SMTP](https://stalw.art/smtp/) - Stalwart SMTP is a modern SMTP server developed in Rust with a focus on security, speed, and extensive configurability `AGPLv3`, `Rust`
+- [SMTPRelay](https://github.com/decke/smtprelay) -  Simple Golang SMTP relay/proxy server M̀IT`, `Go`
 
 ### Email Testing Application
 
