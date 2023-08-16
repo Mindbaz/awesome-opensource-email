@@ -29,6 +29,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [EmailRelay](https://emailrelay.sourceforge.net/) - A small SMTP and POP3 server that is easy to configure `Windows`, `Linux`, `OpenWrt`, `GPLv3`, `C++`
 - [Stalwart SMTP](https://stalw.art/smtp/) - Stalwart SMTP is a modern SMTP server developed in Rust with a focus on security, speed, and extensive configurability `AGPLv3`, `Rust`
 - [SMTPRelay](https://github.com/decke/smtprelay) -  Simple Golang SMTP relay/proxy server `MIT`, `Go`
+- [Mox](https://github.com/mjl-/mox) -  modern full-featured open source secure mail server for low-maintenance self-hosted email  `MIT`, `Go`
 
 ### Email Testing Application
 
