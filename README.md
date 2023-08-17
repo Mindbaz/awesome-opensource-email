@@ -108,7 +108,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Mailtrain](https://github.com/Mailtrain-org/mailtrain) -  Self hosted newsletter app
 - [Keila](https://github.com/pentacent/keila) - Keila is an Open Source alternative to newsletter tools like Mailchimp or Sendinblue.
 - [phplist3](https://github.com/phpList/phplist3) - Fully functional Open Source email marketing manager for creating, sending, integrating, and analysing email campaigns and newsletters.
-- [MailCarrier](https://github.com/mailcarrierapp/mailcarrier) - Mailing platform with templates and logs included. `MIT`, `php`, `Laravel`
+- [MailCarrier](https://github.com/mailcarrierapp/mailcarrier) - Mailing platform with templates and logs included. - `MIT`, `php`, `Laravel`
 
 ## Code
 
@@ -121,7 +121,8 @@ A curated list of resources on Email tools, server, framework, technology...
 
 - [Cerberus](https://github.com/TedGoas/Cerberus) -  A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
 - [HEML](https://heml.io/) -  HEML is an open source markup language for building responsive email. 
-- [Hermes](https://github.com/matcornic/hermes) -  Golang package that generates clean, responsive HTML e-mails for sending transactional mail 
+- [Hermes](https://github.com/matcornic/hermes) -  Golang package that generates clean, responsive HTML e-mails for sending transactional mail
+- [Maud](https://github.com/lambda-fairy/maud) - Compile-time HTML templates for Rust  - `MIT`, `Apache License`, `Rust`
 
 ### Library
 
