@@ -86,9 +86,10 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### Email Verification
 
-- [Reacher](https://github.com/reacherhq) - Check if an email exists without sending any email.
+- [Reacher](https://github.com/reacherhq) - Check if an email exists without sending any email. - `Dual Licence Commercial/AGPL`, `Rust
 - [Mailchecker](https://github.com/FGRibreau/mailchecker) - Cross-language email validation. Backed by a database of over 55 000 throwable email domains.
-- [EmailValidator](https://github.com/egulias/EmailValidator) - PHP Email address validator 
+- [EmailValidator](https://github.com/egulias/EmailValidator) - PHP Email address validator
+- [Truemail](https://github.com/truemail-rb/truemail) - Configurable framework agnostic plain Ruby email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.  - `MIT`, `Ruby`
 
 ### Reputation
 
