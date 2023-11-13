@@ -55,9 +55,9 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Mailu](https://github.com/Mailu/Mailu) -  Insular email distribution - mail server as Docker images 
 - [iRedMail](https://iredmail.org/) - Open Source Mail Server Solution
 - [Erooster Email Server](https://github.com/erooster-mail/erooster) -  A mail suite written in rust meant to be easy to use. 
-- [Zimbra Open Source Edition](https://www.zimbra.com/open-source-email-overview/) - A full featured email service.
+- [Zimbra Open Source Edition](https://github.com/Zimbra/zm-build) - A full featured email service.
 - [Modoboa](https://modoboa.org/en/) - Modoboa brings together Open Source's finest in a single interface.
-- [Mailinabox](https://github.com/Mindbaz/awesome-email) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+- [Mailinabox](https://mailinabox.email/) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [Excision-Mail](https://github.com/Excision-Mail/Excision-Mail) -  Fullstack, security focused, personal mail server based on OpenSMTPD for OpenBSD `ISC License`
 
 ### SPAM Filtering
