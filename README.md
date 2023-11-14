@@ -19,7 +19,6 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Haraka](https://haraka.github.io/) - A modern, high performance, flexible SMTP server - `Nodejs`
 - [Zone-MTA](https://github.com/zone-eu/zone-mta) - Modern outbound MTA cross platform and extendable server application - `Nodejs`
 - [Postal](https://github.com/postalserver/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail 
-- [vSMTP](https://github.com/viridIT/vSMTP) - a next-gen mail transfer agent (MTA) written in Rust. Faster and Greener - `Rust`
 - [Maddy](https://github.com/foxcpp/maddy) -  Composable all-in-one mail server - `GPLv3`, `Go`
 - [Chasquid](https://github.com/albertito/chasquid) - SMTP (email) server with a focus on simplicity, security, and ease of operation - `Ruby`
 - [MailWhale](https://github.com/muety/mailwhale) - A bring-your-own-SMTP-server mail relay with REST API and web UI 
