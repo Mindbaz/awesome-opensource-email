@@ -141,7 +141,8 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### Other
 
-- [Can I email](https://github.com/hteumeuleu/caniemail) - Can I email… Support tables for HTML and CSS in emails. 
+- [Can I email](https://github.com/hteumeuleu/caniemail) - Can I email… Support tables for HTML and CSS in emails.
+- [Premail](https://github.com/peterbe/premailer/) -  Turns CSS blocks into style attributes `BSD 3-Clause`, `Python`
 
 ## Editing
 
