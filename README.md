@@ -40,7 +40,7 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### IMAP/POP Server
 
-- [Wildducj](https://wildduck.email/) -  Modern mail server software for IMAP and POP3. Modern being scalable, Unicode-first, and API-controlled
+- [Wildduck](https://wildduck.email/) -  Modern mail server software for IMAP and POP3. Modern being scalable, Unicode-first, and API-controlled
 - [Dovecot](https://github.com/dovecot/core) -  Dovecot mail server 
 - [Cyrus](https://github.com/cyrusimap/cyrus-imapd) - Cyrus IMAP is an email, contacts and calendar server
 - [Stalwart IMAP server](https://github.com/stalwartlabs/imap-server) - Stalwart IMAP is an open-source Internet Message Access Protocol server designed to be secure, fast, robust and scalable
