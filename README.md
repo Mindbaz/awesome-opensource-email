@@ -138,7 +138,8 @@ A curated list of resources on Email tools, server, framework, technology...
 - [MailKit](https://github.com/jstedfast/MailKit) -  A cross-platform .NET library for IMAP, POP3, and SMTP.
 - [MimeKit](https://github.com/jstedfast/MimeKit) -  A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
 - [Nodemailer](https://nodemailer.com/) - A Node.js library
-- [PHPMailer](https://github.com/PHPMailer/PHPMailer) -  The classic email sending library for PHP 
+- [PHPMailer](https://github.com/PHPMailer/PHPMailer) -  The classic email sending library for PHP
+- [Anymail](https://github.com/anymail/django-anymail/) - Django email backends and webhooks for multiple ESP - `BSD 3-Clause`, `Python`
 
 ### Other
 
