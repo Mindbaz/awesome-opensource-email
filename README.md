@@ -68,8 +68,6 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### Inbox API
 
-- [EmailEngine App](https://emailengine.app/) - Headless email client that makes IMAP and SMTP resources available over REST
-
 ### Forwarding
 
 - [Forward Email](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains. Visit our website to get started (SMTP server)
