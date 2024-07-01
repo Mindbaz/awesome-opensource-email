@@ -9,6 +9,23 @@ Awesome Opensource Email Resources
 
 A curated list of resources on Email tools, server, framework, technology...
 
+## Sponsors
+
+<p align="center">
+  <a href="https://www.sweego.io/">
+    <img src="https://www.sweego.io/wp-content/uploads/2023/12/logo_sweego.svg" alt="Sweego Logo" width="300">
+  <br>Sweego is a multichannel notification platform for developers
+  </a>
+</p>
+<br>
+<p align="center">
+  <a href="https://www.sweego.io/">
+    <img src="https://www.mindbaz.com/wp-content/uploads/2024/02/mindbaz-bleu.png" alt="Mindbaz Logo" width="300">
+  <br>Mindbaz is an email marketing service provider
+  </a>
+</p>
+
+
 ## Contents
 
 ## Sending
