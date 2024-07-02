@@ -190,7 +190,8 @@ A curated list of resources on Email tools, server, framework, technology...
 
 - [Trustymail](https://github.com/cisagov/trustymail) -  Scan domains and return data based on trustworthy email best practices
 - [mailsec-check](https://github.com/foxcpp/mailsec-check) -  Another utility to analyze state of deployment of security-related email protocols.
-- [E-Mail Header Analyzer](https://github.com/cyberdefenders/email-header-analyzer) - E-Mail Header Analyzer 
+- [E-Mail Header Analyzer](https://github.com/cyberdefenders/email-header-analyzer) - E-Mail Header Analyzer
+- [Domain Security Scanner](https://github.com/GlobalCyberAlliance/domain-security-scanner) -  Scan domains and receive advice based on their BIMI, DKIM, DMARC, and SPF records - `Apache License version 2.0`, `Go`
 
 
 ### DMARC
