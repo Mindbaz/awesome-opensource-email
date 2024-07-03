@@ -12,14 +12,14 @@ A curated list of resources on Email tools, server, framework, technology...
 ## Sponsors
 
 <p align="center">
-  <a href="https://www.sweego.io/">
+  <a href="https://www.sweego.io/" target="_blank">
     <img src="https://www.sweego.io/wp-content/uploads/2023/12/logo_sweego.svg" alt="Sweego Logo" width="300">
   <br>Sweego is a multichannel notification platform for developers
   </a>
 </p>
 <br>
 <p align="center">
-  <a href="https://www.sweego.io/">
+  <a href="https://www.sweego.io/" target="_blank">
     <img src="https://www.mindbaz.com/wp-content/uploads/2024/02/mindbaz-bleu.png" alt="Mindbaz Logo" width="300">
   <br>Mindbaz is an email marketing service provider
   </a>
@@ -183,6 +183,9 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. 
 - [Mailcow](https://mailcow.email/) - The mailserver suite with the 'moo' – 🐮 + 🐋 = 💕
 - [Cypht](https://github.com/cypht-org/cypht) -  Cypht: Lightweight Open Source webmail written in PHP and JavaScript - `GNU Lesser General Public License v2.1`, `PHP`, `Javascript`
+
+### CLI
+- [Himalaya](https://github.com/soywod/himalaya) - CLI to manager email - `MIT`, `Rust`
 
 ## Security
 
