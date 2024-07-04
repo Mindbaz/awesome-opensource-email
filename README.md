@@ -82,6 +82,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Rspamd](https://github.com/rspamd/rspamd) - Advanced spam filtering system and email processing framework.
 - [Spamscope](https://github.com/SpamScope/spamscope) -  Fast Advanced Spam Analysis Tool. 
 - [ASSP](https://sourceforge.net/p/assp/wiki/Main_Page/) - The Anti-Spam SMTP Proxy (ASSP).
+- [Spamassassin](https://spamassassin.apache.org/) - Open Source anti-spam platform - `Apache License Version 2.0`, `Perl`, `C`
 
 ### Inbox API
 
