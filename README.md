@@ -76,6 +76,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Modoboa](https://modoboa.org/en/) - Modoboa brings together Open Source's finest in a single interface.
 - [Mailinabox](https://mailinabox.email/) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [Excision-Mail](https://github.com/Excision-Mail/Excision-Mail) -  Fullstack, security focused, personal mail server based on OpenSMTPD for OpenBSD `ISC License`
+- [Docker Mailserver](https://github.com/docker-mailserver/docker-mailserver) -  Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.  - `MIT`
 
 ### SPAM Filtering
 
@@ -83,6 +84,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Spamscope](https://github.com/SpamScope/spamscope) -  Fast Advanced Spam Analysis Tool. 
 - [ASSP](https://sourceforge.net/p/assp/wiki/Main_Page/) - The Anti-Spam SMTP Proxy (ASSP).
 - [Spamassassin](https://spamassassin.apache.org/) - Open Source anti-spam platform - `Apache License Version 2.0`, `Perl`, `C`
+- [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway/overview) - Full-featured, open-source mail proxy and protects your mail server from spam, viruses, trojans, and phishing emails - `GNU AGPLv3`
 
 ### Inbox API
 
