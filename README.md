@@ -144,6 +144,8 @@ A curated list of resources on Email tools, server, framework, technology...
 - [HEML](https://heml.io/) -  HEML is an open source markup language for building responsive email. 
 - [Hermes](https://github.com/matcornic/hermes) -  Golang package that generates clean, responsive HTML e-mails for sending transactional mail
 - [Maud](https://github.com/lambda-fairy/maud) - Compile-time HTML templates for Rust  - `MIT`, `Apache License`, `Rust`
+- [Foundation for Emails 2](https://github.com/foundation/foundation-emails) -  Quickly create responsive HTML emails that work on any device and client. Even Outlook. - `MIT`, `HTML`
+- [Inky](https://github.com/foundation/inky) - Convert a simple HTML syntax into tables compatible with Foundation for Emails. 
 
 ### Library
 
