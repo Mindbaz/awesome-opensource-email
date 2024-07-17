@@ -152,6 +152,7 @@ A curated list of resources on Email tools, server, framework, technology...
 
 - [go-smtp](https://github.com/emersion/go-smtp) - An SMTP client & server library written in Go - `MIT`, `Go`
 - [go-mail](https://github.com/wneessen/go-mail) - Easy to use, yet comprehensive library for sending mails with Go - `MIT`, `Go`
+- [go-msgauth](https://github.com/emersion/go-msgauth) -  🔏 A Go library and tools for DKIM, DMARC and Authentication-Results  - `MIT`, `Go`
 - [lettre](https://github.com/lettre/lettre) - a mailer library for Rust - `MIT`, `Rust`
 - [mailparse](https://github.com/staktrace/mailparse) - Rust library to parse mail files - `BSD Zero Clause`, `Rust`
 - [Nette Mail](https://github.com/nette/mail) - Handy email creation and transfer library for PHP with both text and MIME-compliant support.
