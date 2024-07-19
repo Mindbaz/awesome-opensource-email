@@ -169,6 +169,8 @@ A curated list of resources on Email tools, server, framework, technology...
 
 - [Can I email](https://github.com/hteumeuleu/caniemail) - Can I email… Support tables for HTML and CSS in emails.
 - [Premail](https://github.com/peterbe/premailer/) -  Turns CSS blocks into style attributes `BSD 3-Clause`, `Python`
+- [HowToTarget.email](https://github.com/customerio/howtotarget) - How to target email clients for email development.
+- [Email CSS Resets](https://github.com/JayOram/email-css-resets/tree/main) - List of email CSS normalise/resets.
 
 ## Editing
 
