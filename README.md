@@ -185,7 +185,10 @@ A curated list of resources on Email tools, server, framework, technology...
 - [GrapesJS](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding 
 - [MySigMail Card](https://github.com/mysigmail/card) - An open source html email template builder with drag & drop editor 
 - [Easy Email](https://github.com/zalify/easy-email) -  DnD Email Editor based on React.js and MJML. 
-- [Paperbits emails](https://github.com/paperbits/paperbits-emails) - Paperbits editors and generators for email templates. 
+- [Paperbits emails](https://github.com/paperbits/paperbits-emails) - Paperbits editors and generators for email templates.
+- [Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Drag and drop HTML email designer - `MIT`, `Typescript`
+
+
 
 ## Email Solution
 ### Groupware / Webmail
