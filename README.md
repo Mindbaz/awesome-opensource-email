@@ -219,3 +219,11 @@ A curated list of resources on Email tools, server, framework, technology...
 ### Privacy
 
 - [SimpleLogin](https://github.com/simple-login/app) - Protect your online identity with email alias
+
+### Disposable emails domain list
+- [disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains - `Public Domain`, `Python`
+- [disposable-email-domains (another one)](https://github.com/amieiro/disposable-email-domains) -  Disposable email domain lists, used in disposable email services, generated every quarter of an hour, in txt and JSON format. - `MIT`, `PHP`
+- [disposable](https://github.com/disposable/disposable-email-domains) -  A list of disposable/temporary email address domains - `MIT`, `Python`
+- [disposable-email-domains (another one too)](https://github.com/kslr/disposable-email-domains) -  Anti-cheating, temporary (disposable/throwaway) email list - `MIT`, `Javascript`
+- [email_data](https://github.com/fnando/email_data) -  This project is a compilation of datasets related to emails. Includes disposable emails, disposable domains, and free email services.  - `MIT`, `Ruby`
+- [disposable-email-domain-list](https://github.com/groundcat/disposable-email-domain-list) -  A list of disposable email domains, cleaned and validated by scanning MX records. - `MIT`, `Python`
