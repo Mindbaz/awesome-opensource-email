@@ -110,6 +110,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [EmailValidator](https://github.com/egulias/EmailValidator) - PHP Email address validator
 - [Truemail](https://github.com/truemail-rb/truemail) - Configurable framework agnostic plain Ruby email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.  - `MIT`, `Ruby`
 - [email-validator-js](https://github.com/devmehq/email-validator-js) -  Verify email address checking MX records, and SMTP connection, check for disposable email addresses and free email providers. - `MIT`, `Typescript`
+- [python-email-validator](https://github.com/JoshData/python-email-validator) -  A robust email syntax and deliverability validation library for Python.  `The Unlicense`, `Python`
 
 ### Reputation
 
@@ -166,6 +167,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Nodemailer](https://nodemailer.com/) - A Node.js library
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) -  The classic email sending library for PHP
 - [Anymail](https://github.com/anymail/django-anymail/) - Django email backends and webhooks for multiple ESP - `BSD 3-Clause`, `Python`
+- [Swoosh](https://github.com/swoosh/swoosh) -  Compose, deliver and test your emails easily in Elixir - `MIT`, `Elixir`
 
 ### Other
 
