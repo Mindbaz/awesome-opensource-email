@@ -81,6 +81,7 @@ A curated list of resources on Email tools, server, framework, technology...
 ### SPAM Filtering
 
 - [Rspamd](https://github.com/rspamd/rspamd) - Advanced spam filtering system and email processing framework.
+- [AgentJ](https://github.com/Probesys/agentj) -  AgentJ is a free software anti-spam solution with human authentication and admin panel - `AGPL`, `PHP`
 - [Spamscope](https://github.com/SpamScope/spamscope) -  Fast Advanced Spam Analysis Tool. 
 - [ASSP](https://sourceforge.net/p/assp/wiki/Main_Page/) - The Anti-Spam SMTP Proxy (ASSP).
 - [Spamassassin](https://spamassassin.apache.org/) - Open Source anti-spam platform - `Apache License Version 2.0`, `Perl`, `C`
