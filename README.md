@@ -106,6 +106,7 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### Email Verification
 
+- [CustomerOS MailSherpa](https://github.com/customeros/mailsherpa) - A CLI for verifying email address deliverability over SMTP without sending an email. - `AGPL-3.0`, `Go`
 - [Reacher](https://github.com/reacherhq) - Check if an email exists without sending any email. - `Dual Licence Commercial/AGPL`, `Rust`
 - [Email-Verifier](https://github.com/AfterShip/email-verifier) - A Go library for email verification without sending any emails.  - `MIT`, `Go`
 - [Mailchecker](https://github.com/FGRibreau/mailchecker) - Cross-language email validation. Backed by a database of over 55 000 throwable email domains.
