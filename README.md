@@ -220,10 +220,12 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### DMARC
 
+- [parsedmarc](https://github.com/domainaware/parsedmarc) -  A Python package and CLI for parsing aggregate and forensic DMARC reports  - `Apache License version 2.0`, `Python`
 - [dmarc-report-converter](https://github.com/tierpod/dmarc-report-converter) - Convert DMARC report files from xml to human-readable formats
 - [Open DMARC Analyzer](https://github.com/userjack6880/Open-DMARC-Analyzer) -  Open DMARC Analyzer is an Open Source DMARC Report Analyzer to be used with DMARC reports that have been parsed by John Levine's rrdmarc script or techsneeze's dmarcts-report-parser. 
 - [DmarcSrg](https://github.com/liuch/dmarc-srg) -  A php parser, viewer and summary report generator for incoming DMARC reports.
 - [dmarcts-report-parser](https://github.com/techsneeze/dmarcts-report-parser) -  A Perl based tool to parse DMARC reports from an IMAP mailbox or from the filesystem, and insert the information into a database. ( Formerly known as imap-dmarcts ) - `GNU GPL v3`, `Perl`
+- [checkdmarc](https://github.com/domainaware/checkdmarc) -  A parser for SPF and DMARC DNS records - `Apache License version 2.0`, `Python`
 
 
 ### Privacy
