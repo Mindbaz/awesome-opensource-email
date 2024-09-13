@@ -46,6 +46,8 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Stalwart SMTP](https://stalw.art/smtp/) - Stalwart SMTP is a modern SMTP server developed in Rust with a focus on security, speed, and extensive configurability - `AGPLv3`, `Rust`
 - [SMTPRelay](https://github.com/decke/smtprelay) -  Simple Golang SMTP relay/proxy server - `MIT`, `Go`
 - [Mox](https://github.com/mjl-/mox) -  modern full-featured open source secure mail server for low-maintenance self-hosted email - `MIT`, `Go`
+- [James](https://github.com/apache/james-project) - James stands for Java Apache Mail Enterprise Server! - `Apache License Version 2.0`, `Java`
+
 
 ### Email Testing Application
 
@@ -62,9 +64,14 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Dovecot](https://github.com/dovecot/core) -  Dovecot mail server 
 - [Cyrus](https://github.com/cyrusimap/cyrus-imapd) - Cyrus IMAP is an email, contacts and calendar server
 - [Stalwart IMAP server](https://github.com/stalwartlabs/imap-server) - Stalwart IMAP is an open-source Internet Message Access Protocol server designed to be secure, fast, robust and scalable
+- [James](https://github.com/apache/james-project) - James stands for Java Apache Mail Enterprise Server! - `Apache License Version 2.0`, `Java`
 
-### JMAP Server
-- [Stalwart JMAP server](https://github.com/stalwartlabs/jmap-server) - Stalwart JMAP is an open-source JSON Meta Application Protocol server designed to be secure, fast, robust and scalable
+
+### JMAP Server & others
+- [Stalwart JMAP server](https://github.com/stalwartlabs/jmap-server) - Stalwart JMAP is an open-source JSON Meta Application Protocol server designed to be secure, fast, robust and scalable - `GPLv3`, `Rust`
+- [JMAP](https://github.com/jmapio/jmap) -  JSON Meta Application Protocol Specification (JMAP) Specification
+- [James](https://github.com/apache/james-project) - James stands for Java Apache Mail Enterprise Server! - `Apache License Version 2.0`, `Java`
+- [Gomap](https://github.com/cwinters8/gomap) -  Go module for interfacing with JMAP servers 
 
 
 ### Complete Email Server
