@@ -206,9 +206,11 @@ A curated list of resources on Email tools, server, framework, technology...
 ### Groupware / Webmail
 
 - [Bluemind](https://www.bluemind.net/en/) - Collaborative messaging solution
+- [Roundcube](https://github.com/roundcube/roundcubemail) -  The Roundcube Webmail suite - `GPLv3`, `PHP`
 - [Tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. 
 - [Mailcow](https://mailcow.email/) - The mailserver suite with the 'moo' – 🐮 + 🐋 = 💕
 - [Cypht](https://github.com/cypht-org/cypht) -  Cypht: Lightweight Open Source webmail written in PHP and JavaScript - `GNU Lesser General Public License v2.1`, `PHP`, `Javascript`
+- [Egroupware](https://github.com/EGroupware/egroupware) - Web based groupware server written in PHP - `GPLv2`, `PHP`
 
 ### CLI
 - [Himalaya](https://github.com/soywod/himalaya) - CLI to manager email - `MIT`, `Rust`
