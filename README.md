@@ -203,7 +203,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Easy Email](https://github.com/zalify/easy-email) -  DnD Email Editor based on React.js and MJML. 
 - [Paperbits emails](https://github.com/paperbits/paperbits-emails) - Paperbits editors and generators for email templates.
 - [Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Drag and drop HTML email designer - `MIT`, `Typescript`
-
+- [email-builder-js](https://github.com/usewaypoint/email-builder-js) -  A free and open-source block-based email template builder - `MIT`, `Typescript`
 
 
 ## Email Solution
