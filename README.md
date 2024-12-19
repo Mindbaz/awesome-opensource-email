@@ -167,6 +167,7 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### Library
 
+- [ballerina-email](https://github.com/ballerina-platform/module-ballerina-email) - Easy to use, yet comprehensive library for sending mails with Ballerina - `Apache 2.0`, `Ballerina`
 - [go-smtp](https://github.com/emersion/go-smtp) - An SMTP client & server library written in Go - `MIT`, `Go`
 - [go-mail](https://github.com/wneessen/go-mail) - Easy to use, yet comprehensive library for sending mails with Go - `MIT`, `Go`
 - [go-msgauth](https://github.com/emersion/go-msgauth) -  🔏 A Go library and tools for DKIM, DMARC and Authentication-Results  - `MIT`, `Go`
