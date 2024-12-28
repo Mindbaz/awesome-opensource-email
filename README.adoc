@@ -1,0 +1,245 @@
+:doctype: book
+:toc:
+
+https://github.com/Mindbaz/awesome-opensource-email/[image:https://github.com/Mindbaz/awesome-email/blob/main/assets/icone.png[Awesome Opensource Email\]]
+
+= awesome-opensource-email
+
+Awesome Opensource Email Resources
+
+A curated list of resources on Email tools, server, framework, technology...
+
+== Sponsors
+
+https://www.sweego.io/[image:https://www.sweego.io/wp-content/uploads/2023/12/logo_sweego.svg[Sweego Logo,300\] +
+Sweego is a multichannel notification platform for developers] +
+
+https://www.sweego.io/[image:https://www.mindbaz.com/wp-content/uploads/2024/02/mindbaz-bleu.png[Mindbaz Logo,300\] +
+Mindbaz is an email marketing service provider]
+
+== Contents
+
+== Sending
+
+=== SMTP Server
+
+* http://www.postfix.org/[Postfix] - The most famous email server - `IPL-1.0`, `C`
+* https://github.com/KumoCorp/kumomta[KumoMTA] - The first Open-Source high-performance MTA developed from the ground-up for high-volume email sending environments. - `Rust`, `Lua`
+* https://haraka.github.io/[Haraka] - A modern, high performance, flexible SMTP server - `Nodejs`
+* https://github.com/zone-eu/zone-mta[Zone-MTA] - Modern outbound MTA cross platform and extendable server application - `Nodejs`
+* https://github.com/postalserver/postal[Postal] - A fully featured open source mail delivery platform for incoming & outgoing e-mail
+* https://github.com/foxcpp/maddy[Maddy] -  Composable all-in-one mail server - `GPLv3`, `Go`
+* https://github.com/albertito/chasquid[Chasquid] - SMTP (email) server with a focus on simplicity, security, and ease of operation - `Ruby`
+* https://github.com/muety/mailwhale[MailWhale] - A bring-your-own-SMTP-server mail relay with REST API and web UI
+* https://github.com/mlandauer/cuttlefish[Cuttlefish] - Transactional email server with a lovely web interface - `AGPLv3`, `Ruby`
+* https://github.com/corecode/dma[DragonFly] - A small MTA for home and office use - `Linux`, `UNIX`, `BSD`, `C`
+* https://www.hmailserver.com/[hMailServer] - A user friendly IMAP, SMTP and POP3 server with admin GUI and spam protection. - `Windows`, `AGPLv3`, `pass:c[C++]`
+* https://emailrelay.sourceforge.net/[EmailRelay] - A small SMTP and POP3 server that is easy to configure - `Windows`, `Linux`, `OpenWrt`, `GPLv3`, `pass:c[C++]`
+* https://stalw.art/smtp/[Stalwart SMTP] - Stalwart SMTP is a modern SMTP server developed in Rust with a focus on security, speed, and extensive configurability - `AGPLv3`, `Rust`
+* https://github.com/decke/smtprelay[SMTPRelay] -  Simple Golang SMTP relay/proxy server - `MIT`, `Go`
+* https://github.com/mjl-/mox[Mox] -  modern full-featured open source secure mail server for low-maintenance self-hosted email - `MIT`, `Go`
+* https://github.com/apache/james-project[James] - James stands for Java Apache Mail Enterprise Server! - `Apache License Version 2.0`, `Java`
+
+=== Email Testing Application
+
+* https://github.com/kura/blackhole[Blackhole] -  Blackhole is an MTA written on top of asyncio, utilising async and await statements that dumps all mail it receives to /dev/null.
+* https://github.com/rnwood/smtp4dev[SMTP4dev] - the fake smtp email server for development and testing
+* https://github.com/maildev/maildev[Maildev] -  mailbox SMTP Server + Web Interface for viewing and testing emails during development.
+* https://github.com/inbucket/inbucket[Inbucket] - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
+* https://github.com/HaschekSolutions/opentrashmail[Opentrashmail] - Selfhosted trashmail solution - Receive Emails via Web UI, JSON API and RSS feed
+* https://github.com/yaroslaff/testmsg[TestMSG] - Generate RFC-compliant e-mail messages for sending over SMTP. DKIM signed (optionally). - `MIT`, `Python`
+
+=== IMAP/POP Server
+
+* https://wildduck.email/[Wildduck] -  Modern mail server software for IMAP and POP3. Modern being scalable, Unicode-first, and API-controlled
+* https://github.com/dovecot/core[Dovecot] -  Dovecot mail server
+* https://github.com/cyrusimap/cyrus-imapd[Cyrus] - Cyrus IMAP is an email, contacts and calendar server
+* https://github.com/stalwartlabs/imap-server[Stalwart IMAP server] - Stalwart IMAP is an open-source Internet Message Access Protocol server designed to be secure, fast, robust and scalable
+* https://github.com/apache/james-project[James] - James stands for Java Apache Mail Enterprise Server! - `Apache License Version 2.0`, `Java`
+
+=== JMAP Server & others
+
+* https://github.com/stalwartlabs/jmap-server[Stalwart JMAP server] - Stalwart JMAP is an open-source JSON Meta Application Protocol server designed to be secure, fast, robust and scalable - `GPLv3`, `Rust`
+* https://github.com/jmapio/jmap[JMAP] -  JSON Meta Application Protocol Specification (JMAP) Specification
+* https://github.com/apache/james-project[James] - James stands for Java Apache Mail Enterprise Server! - `Apache License Version 2.0`, `Java`
+* https://github.com/cwinters8/gomap[Gomap] -  Go module for interfacing with JMAP servers
+
+=== Complete Email Server
+
+* https://github.com/Mailu/Mailu[Mailu] -  Insular email distribution - mail server as Docker images
+* https://iredmail.org/[iRedMail] - Open Source Mail Server Solution
+* https://github.com/erooster-mail/erooster[Erooster Email Server] -  A mail suite written in rust meant to be easy to use.
+* https://github.com/Zimbra/zm-build[Zimbra Open Source Edition] - A full featured email service.
+* https://modoboa.org/en/[Modoboa] - Modoboa brings together Open Source's finest in a single interface.
+* https://github.com/mail-in-a-box/mailinabox[Mailinabox] - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+* https://github.com/Excision-Mail/Excision-Mail[Excision-Mail] -  Fullstack, security focused, personal mail server based on OpenSMTPD for OpenBSD `ISC License`
+* https://github.com/docker-mailserver/docker-mailserver[Docker Mailserver] -  Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.  - `MIT`
+
+=== SPAM Filtering
+
+* https://github.com/rspamd/rspamd[Rspamd] - Advanced spam filtering system and email processing framework.
+* https://github.com/Probesys/agentj[AgentJ] -  AgentJ is a free software anti-spam solution with human authentication and admin panel - `AGPL`, `PHP`
+* https://github.com/SpamScope/spamscope[Spamscope] -  Fast Advanced Spam Analysis Tool.
+* https://sourceforge.net/p/assp/wiki/Main_Page/[ASSP] - The Anti-Spam SMTP Proxy (ASSP).
+* https://spamassassin.apache.org/[Spamassassin] - Open Source anti-spam platform - `Apache License Version 2.0`, `Perl`, `C`
+* https://www.proxmox.com/en/proxmox-mail-gateway/overview[Proxmox Mail Gateway] - Full-featured, open-source mail proxy and protects your mail server from spam, viruses, trojans, and phishing emails - `GNU AGPLv3`
+
+=== Inbox API
+
+=== Forwarding
+
+* https://github.com/forwardemail/free-email-forwarding[Forward Email] - The best free email forwarding for custom domains. Visit our website to get started (SMTP server)
+* https://github.com/anonaddy/anonaddy[Anonaddy] -  Anonymous email forwarding
+
+=== SMTP Testing
+
+* https://github.com/mailhog/MailHog[MailHog] - Web and API based SMTP testing  - `MIT`, `Go`
+* https://mailcatcher.me/[MailCatcher] - Catches mail and serves it via a webui  - `MIT`, `Ruby`
+* https://github.com/tweedegolf/mailcrab[MailCrab] - Email test server for development, written in Rust - `Apache License`, `Rust`
+* https://github.com/axllent/mailpit[MailPit] - An email and SMTP testing tool with API for developers  - `MIT`, `Go`
+* https://github.com/mimecast/robin[Robin] -  Debug and development tool for MTA architects! Robin is a highly configurable SMTP client for testing and debugging SMTP servers. - `Java`, `Apache License 2.0`
+
+=== Inbound
+
+* https://github.com/sendbetter/inbound-email[Inbound SMTP to Webhook] - Receive email and sent parsed content/headers to webhook, attachments to S3.
+
+== Deliverability
+
+=== Email Verification
+
+* https://github.com/customeros/mailsherpa[CustomerOS MailSherpa] - A CLI for verifying email address deliverability over SMTP without sending an email. - `AGPL-3.0`, `Go`
+* https://github.com/reacherhq[Reacher] - Check if an email exists without sending any email. - `Dual Licence Commercial/AGPL`, `Rust`
+* https://github.com/AfterShip/email-verifier[Email-Verifier] - A Go library for email verification without sending any emails.  - `MIT`, `Go`
+* https://github.com/FGRibreau/mailchecker[Mailchecker] - Cross-language email validation. Backed by a database of over 55 000 throwable email domains.
+* https://github.com/egulias/EmailValidator[EmailValidator] - PHP Email address validator
+* https://github.com/truemail-rb/truemail[Truemail] - Configurable framework agnostic plain Ruby email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.  - `MIT`, `Ruby`
+* https://github.com/devmehq/email-validator-js[email-validator-js] -  Verify email address checking MX records, and SMTP connection, check for disposable email addresses and free email providers. - `MIT`, `Typescript`
+* https://github.com/JoshData/python-email-validator[python-email-validator] -  A robust email syntax and deliverability validation library for Python.  `The Unlicense`, `Python`
+
+=== Reputation
+
+* https://github.com/Mindbaz/python-gpostmaster-domains-datas[Google Postmaster Datas] - Downloads and flattends datas from Google Postmaster Tools (GPT)
+* https://github.com/Mindbaz/python-hetrixtools-blacklist[Python Hetrixtools Blacklist] - Tool to retrieve @hetrixtools data from their API and store them in flat file or in a database
+
+== Email Platform
+
+=== Marketing Platform
+
+* https://github.com/mautic/mautic[Mautic] - Open Source Marketing Automation Software
+* https://github.com/mettle/sendportal[Sendportal] - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.
+* https://github.com/valyentdev/ferdinand[Ferdinand] -  Open-source email delivery service for developers. `GNU Affero General Public License v3.0`, `templ`, `javascript`, `Go`
+* https://github.com/useplunk/plunk[Plunk] - Open-Source Email Platform - `GNU Affero General Public License v3.0`, `typescript`
+
+=== Newsletter Platform
+
+* https://github.com/knadh/listmonk[Listmonk] - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+* https://github.com/Mailtrain-org/mailtrain[Mailtrain] -  Self hosted newsletter app
+* https://github.com/pentacent/keila[Keila] - Keila is an Open Source alternative to newsletter tools like Mailchimp or Sendinblue.
+* https://github.com/phpList/phplist3[phplist3] - Fully functional Open Source email marketing manager for creating, sending, integrating, and analysing email campaigns and newsletters.
+* https://github.com/mailcarrierapp/mailcarrier[MailCarrier] - Mailing platform with templates and logs included. - `MIT`, `php`, `Laravel`
+* https://github.com/ElliotKillick/rss2newsletter[RSS2Newsletter] - Convert RSS/Atom feed to email newsletters - `GNU Affero General Public License v3.0`, `Python`
+
+== Code
+
+=== Framework
+
+* https://github.com/mjmlio/mjml[MJML] - Framework to make responsive-email easy
+* https://github.com/maizzle/framework[Maizzle] -  HTML email development framework
+
+=== Templating
+
+* https://github.com/TedGoas/Cerberus[Cerberus] -  A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
+* https://heml.io/[HEML] -  HEML is an open source markup language for building responsive email.
+* https://github.com/matcornic/hermes[Hermes] -  Golang package that generates clean, responsive HTML e-mails for sending transactional mail
+* https://github.com/lambda-fairy/maud[Maud] - Compile-time HTML templates for Rust  - `MIT`, `Apache License`, `Rust`
+* https://github.com/foundation/foundation-emails[Foundation for Emails 2] -  Quickly create responsive HTML emails that work on any device and client. Even Outlook. - `MIT`, `HTML`
+* https://github.com/foundation/inky[Inky] - Convert a simple HTML syntax into tables compatible with Foundation for Emails.
+
+=== Library
+
+* https://github.com/emersion/go-smtp[go-smtp] - An SMTP client & server library written in Go - `MIT`, `Go`
+* https://github.com/wneessen/go-mail[go-mail] - Easy to use, yet comprehensive library for sending mails with Go - `MIT`, `Go`
+* https://github.com/emersion/go-msgauth[go-msgauth] -  🔏 A Go library and tools for DKIM, DMARC and Authentication-Results  - `MIT`, `Go`
+* https://github.com/lettre/lettre[lettre] - a mailer library for Rust - `MIT`, `Rust`
+* https://github.com/staktrace/mailparse[mailparse] - Rust library to parse mail files - `BSD Zero Clause`, `Rust`
+* https://github.com/nette/mail[Nette Mail] - Handy email creation and transfer library for PHP with both text and MIME-compliant support.
+* https://github.com/Stampie/Stampie[Stampie] - Library for using online Email providers for PHP
+* https://github.com/playframework/play-mailer[Play-Mailer] - Play mailer plugin for Scala
+* https://libsisimai.org/[Sisimai] - Mail Analyzing Interface: A library to parse RFC5322 bounce emails and generating structured data as JSON from parsed results. For Perl, Go & Ruby
+* https://github.com/jstedfast/MailKit[MailKit] -  A cross-platform .NET library for IMAP, POP3, and SMTP.
+* https://github.com/jstedfast/MimeKit[MimeKit] -  A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
+* https://nodemailer.com/[Nodemailer] - A Node.js library
+* https://github.com/PHPMailer/PHPMailer[PHPMailer] -  The classic email sending library for PHP
+* https://github.com/anymail/django-anymail/[Anymail] - Django email backends and webhooks for multiple ESP - `BSD 3-Clause`, `Python`
+* https://github.com/swoosh/swoosh[Swoosh] -  Compose, deliver and test your emails easily in Elixir - `MIT`, `Elixir`
+
+=== Other
+
+* https://github.com/hteumeuleu/caniemail[Can I email] - Can I email... Support tables for HTML and CSS in emails.
+* https://github.com/peterbe/premailer/[Premail] -  Turns CSS blocks into style attributes `BSD 3-Clause`, `Python`
+* https://github.com/customerio/howtotarget[HowToTarget.email] - How to target email clients for email development.
+* https://github.com/JayOram/email-css-resets/tree/main[Email CSS Resets] - List of email CSS normalise/resets.
+
+== Editing
+
+=== Email Builder & Visual Editing Component
+
+* https://github.com/Badsender-com/LePatron.email[LePatron] -  LePatron is an opensource email builder allowing to industrialize your email template production. Build tailor made email templates and make them available to your non-technical users.
+* https://github.com/voidlabs/mosaico[Mosaico] - Responsive Email Template Editor
+* https://github.com/unlayer/react-email-editor[React Email Editor] -  Drag-n-Drop Email Editor Component for React.js
+* https://github.com/unlayer/vue-email-editor[Vue Email Editor] -  Drag-n-Drop Email Editor Component for Vue.js
+* https://github.com/artf/grapesjs[GrapesJS] - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+* https://github.com/mysigmail/card[MySigMail Card] - An open source html email template builder with drag & drop editor
+* https://github.com/zalify/easy-email[Easy Email] -  DnD Email Editor based on React.js and MJML.
+* https://github.com/paperbits/paperbits-emails[Paperbits emails] - Paperbits editors and generators for email templates.
+* https://github.com/SendWithSES/Drag-and-Drop-Email-Designer[Drag-and-Drop-Email-Designer] - Drag and drop HTML email designer - `MIT`, `Typescript`
+* https://github.com/usewaypoint/email-builder-js[email-builder-js] -  A free and open-source block-based email template builder - `MIT`, `Typescript`
+
+== Email Solution
+
+=== Groupware / Webmail
+
+* https://www.bluemind.net/en/[Bluemind] - Collaborative messaging solution
+* https://github.com/roundcube/roundcubemail[Roundcube] -  The Roundcube Webmail suite - `GPLv3`, `PHP`
+* https://github.com/tutao/tutanota[Tutanota] - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
+* https://mailcow.email/[Mailcow] - The mailserver suite with the 'moo' -- 🐮 + 🐋 = 💕
+* https://github.com/cypht-org/cypht[Cypht] -  Cypht: Lightweight Open Source webmail written in PHP and JavaScript - `GNU Lesser General Public License v2.1`, `PHP`, `Javascript`
+* https://github.com/EGroupware/egroupware[Egroupware] - Web based groupware server written in PHP - `GPLv2`, `PHP`
+
+=== CLI
+
+* https://github.com/soywod/himalaya[Himalaya] - CLI to manager email - `MIT`, `Rust`
+
+== Security
+
+=== Security Check
+
+* https://github.com/cisagov/trustymail[Trustymail] -  Scan domains and return data based on trustworthy email best practices
+* https://github.com/foxcpp/mailsec-check[mailsec-check] -  Another utility to analyze state of deployment of security-related email protocols.
+* https://github.com/cyberdefenders/email-header-analyzer[E-Mail Header Analyzer] - E-Mail Header Analyzer
+* https://github.com/GlobalCyberAlliance/domain-security-scanner[Domain Security Scanner] -  Scan domains and receive advice based on their BIMI, DKIM, DMARC, and SPF records - `Apache License version 2.0`, `Go`
+* https://github.com/CERT-Polska/mailgoose[Mailgoose] -  A web application that allows the users to check whether their SPF, DMARC and DKIM configuration is set up correctly. - `BSD 3-Clause "New" or "Revised" License`, `Python`
+* https://github.com/steffenfritz/mxcheck[mxcheck] -  mxcheck is an info and security scanner for e-mail servers. `GPL v-3`, `Go`
+
+=== DMARC
+
+* https://github.com/domainaware/parsedmarc[parsedmarc] -  A Python package and CLI for parsing aggregate and forensic DMARC reports  - `Apache License version 2.0`, `Python`
+* https://github.com/tierpod/dmarc-report-converter[dmarc-report-converter] - Convert DMARC report files from xml to human-readable formats
+* https://github.com/userjack6880/Open-DMARC-Analyzer[Open DMARC Analyzer] -  Open DMARC Analyzer is an Open Source DMARC Report Analyzer to be used with DMARC reports that have been parsed by John Levine's rrdmarc script or techsneeze's dmarcts-report-parser.
+* https://github.com/liuch/dmarc-srg[DmarcSrg] -  A php parser, viewer and summary report generator for incoming DMARC reports.
+* https://github.com/techsneeze/dmarcts-report-parser[dmarcts-report-parser] -  A Perl based tool to parse DMARC reports from an IMAP mailbox or from the filesystem, and insert the information into a database. ( Formerly known as imap-dmarcts ) - `GNU GPL v3`, `Perl`
+* https://github.com/domainaware/checkdmarc[checkdmarc] -  A parser for SPF and DMARC DNS records - `Apache License version 2.0`, `Python`
+* https://github.com/antedebaas/Viesti-Reports[Viesti-Reports] - DMARC & SMTP-TLS Reports processor and visualizer and BIMI file hoster - `GPL v2`, `PHP`
+
+=== Privacy
+
+* https://github.com/simple-login/app[SimpleLogin] - Protect your online identity with email alias
+
+=== Disposable emails domain list
+
+* https://github.com/disposable-email-domains/disposable-email-domains[disposable-email-domains] - a list of disposable and temporary email address domains - `Public Domain`, `Python`
+* https://github.com/amieiro/disposable-email-domains[disposable-email-domains (another one)] -  Disposable email domain lists, used in disposable email services, generated every quarter of an hour, in txt and JSON format. - `MIT`, `PHP`
+* https://github.com/disposable/disposable[disposable] -  A list of disposable/temporary email address domains - `MIT`, `Python`
+* https://github.com/kslr/disposable-email-domains[disposable-email-domains (another one too)] -  Anti-cheating, temporary (disposable/throwaway) email list - `MIT`, `Javascript`
+* https://github.com/fnando/email_data[email_data] -  This project is a compilation of datasets related to emails. Includes disposable emails, disposable domains, and free email services.  - `MIT`, `Ruby`
+* https://github.com/groundcat/disposable-email-domain-list[disposable-email-domain-list] -  A list of disposable email domains, cleaned and validated by scanning MX records. - `MIT`, `Python`
