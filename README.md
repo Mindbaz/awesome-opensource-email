@@ -25,8 +25,42 @@ A curated list of resources on Email tools, server, framework, technology...
   </a>
 </p>
 
+## Table of Contents
 
-## Contents
+- [Sending](#sending)
+  - [SMTP Server](#smtp-server)
+  - [Email Testing Application](#email-testing-application)
+  - [IMAP/POP Server](#imappop-server)
+  - [JMAP Server & others](#jmap-server--others)
+  - [Complete Email Server](#complete-email-server)
+  - [SPAM Filtering](#spam-filtering)
+  - [Inbox API](#inbox-api)
+  - [Forwarding](#forwarding)
+  - [SMTP Testing](#smtp-testing)
+  - [Inbound](#inbound)
+- [Deliverability](#deliverability)
+  - [Email Verification](#email-verification)
+  - [Reputation](#reputation)
+- [Email Platform](#email-platform)
+  - [Marketing Platform](#marketing-platform)
+  - [Newsletter Platform](#newsletter-platform)
+- [Code](#code)
+  - [Framework](#framework)
+  - [Templating](#templating)
+  - [Library](#library)
+  - [Other](#other)
+- [Editing](#editing)
+  - [Email Builder & Visual Editing Component](#email-builder--visual-editing-component)
+- [Email Solution](#email-solution)
+  - [Groupware / Webmail](#groupware--webmail)
+  - [CLI](#cli)
+- [Security](#security)
+  - [Security Check](#security-check)
+  - [DMARC](#dmarc)
+  - [Privacy](#privacy)
+- [Disposable emails domain list](#disposable-emails-domain-list)
+
+  
 
 ## Sending
 ### SMTP Server
