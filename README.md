@@ -115,7 +115,8 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [Excision-Mail](https://github.com/Excision-Mail/Excision-Mail) -  Fullstack, security focused, personal mail server based on OpenSMTPD for OpenBSD `ISC License`
 - [Docker Mailserver](https://github.com/docker-mailserver/docker-mailserver) -  Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.  - `MIT`
-- [Stalwart](https://github.com/stalwartlabs/mail-server) -  Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) - `GNU AGPLv3` & `Stalwart Enterprise License 1.0 (SELv1) Agreement`, `Rust` 
+- [Stalwart](https://github.com/stalwartlabs/mail-server) -  Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) - `GNU AGPLv3` & `Stalwart Enterprise License 1.0 (SELv1) Agreement`, `Rust`
+- [Forward Email](https://github.com/forwardemail/forwardemail.net) - All-in-one 100% open-source mail server alternative to Gmail/Mailchimp/Sendgrid (IMAP, POP3, SMTP, CalDAV) - `BUSL-1.1` & `MPL-2.0`, `JavaScript`
 
 ### SPAM Filtering
 
@@ -130,7 +131,6 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### Forwarding
 
-- [Forward Email](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains. Visit our website to get started (SMTP server)
 - [Anonaddy](https://github.com/anonaddy/anonaddy) -  Anonymous email forwarding 
 
 ### SMTP Testing
