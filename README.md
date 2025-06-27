@@ -157,6 +157,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Truemail](https://github.com/truemail-rb/truemail) - Configurable framework agnostic plain Ruby email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.  - `MIT`, `Ruby`
 - [email-validator-js](https://github.com/devmehq/email-validator-js) -  Verify email address checking MX records, and SMTP connection, check for disposable email addresses and free email providers. - `MIT`, `Typescript`
 - [python-email-validator](https://github.com/JoshData/python-email-validator) -  A robust email syntax and deliverability validation library for Python.  `The Unlicense`, `Python`
+- [validate-email](https://github.com/centminmod/validate-emails) -  Self-hosted email verification script to clean up bad invalid email address lists. Supports various commercial email verification provider APIs all in one script - `PHP`
 
 ### Reputation
 
