@@ -141,9 +141,10 @@ A curated list of resources on Email tools, server, framework, technology...
 - [MailPit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers  - `MIT`, `Go`
 - [Robin](https://github.com/mimecast/robin) -  Debug and development tool for MTA architects! Robin is a highly configurable SMTP client for testing and debugging SMTP servers. - `Java`, `Apache License 2.0`
 
-### Inbound
+### Inbound - Mail Parser
 
 - [Inbound SMTP to Webhook](https://github.com/sendbetter/inbound-email) - Receive email and sent parsed content/headers to webhook, attachments to S3.
+- [Mail-Parser](https://github.com/SpamScope/mail-parser) -  A tool that parses emails by enhancing the Python standard library, extracting all details into a comprehensive object. `Apache License 2.0`, `Python`
 
 ## Deliverability
 
@@ -263,6 +264,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Domain Security Scanner](https://github.com/GlobalCyberAlliance/domain-security-scanner) -  Scan domains and receive advice based on their BIMI, DKIM, DMARC, and SPF records - `Apache License version 2.0`, `Go`
 - [Mailgoose](https://github.com/CERT-Polska/mailgoose) -  A web application that allows the users to check whether their SPF, DMARC and DKIM configuration is set up correctly. - `BSD 3-Clause "New" or "Revised" License`, `Python`
 - [mxcheck](https://github.com/steffenfritz/mxcheck) -  mxcheck is an info and security scanner for e-mail servers. `GPL v-3`, `Go`
+- [Spamhaus-Intelligence-API-CLI](https://github.com/Mindbaz/Spamhaus-Intelligence-API-CLI) -  CLI to query Spamhaus Intelligence API `GPL v-3`, `Python`
 
 
 ### DMARC
