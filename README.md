@@ -78,7 +78,6 @@ A curated list of resources on Email tools, server, framework, technology...
 - [hMailServer](https://www.hmailserver.com/) - A user friendly IMAP, SMTP and POP3 server with admin GUI and spam protection. - `Windows`, `AGPLv3`, `C++`
 - [EmailRelay](https://emailrelay.sourceforge.net/) - A small SMTP and POP3 server that is easy to configure - `Windows`, `Linux`, `OpenWrt`, `GPLv3`, `C++`
 - [SMTPRelay](https://github.com/decke/smtprelay) -  Simple Golang SMTP relay/proxy server - `MIT`, `Go`
-- [Mox](https://github.com/mjl-/mox) -  modern full-featured open source secure mail server for low-maintenance self-hosted email - `MIT`, `Go`
 - [James](https://github.com/apache/james-project) - James stands for Java Apache Mail Enterprise Server! - `Apache License Version 2.0`, `Java`
 
 
@@ -115,6 +114,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [Excision-Mail](https://github.com/Excision-Mail/Excision-Mail) -  Fullstack, security focused, personal mail server based on OpenSMTPD for OpenBSD `ISC License`
 - [Docker Mailserver](https://github.com/docker-mailserver/docker-mailserver) -  Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.  - `MIT`
+- [Mox](https://github.com/mjl-/mox) -  modern full-featured open source secure mail server for low-maintenance self-hosted email - `MIT`, `Go`
 - [Stalwart](https://github.com/stalwartlabs/mail-server) -  Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) - `GNU AGPLv3` & `Stalwart Enterprise License 1.0 (SELv1) Agreement`, `Rust`
 - [Forward Email](https://github.com/forwardemail/forwardemail.net) - All-in-one 100% open-source mail server alternative to Gmail/Mailchimp/Sendgrid (IMAP, POP3, SMTP, CalDAV) - `BUSL-1.1` & `MPL-2.0`, `JavaScript`
 
