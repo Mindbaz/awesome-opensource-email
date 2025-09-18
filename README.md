@@ -173,6 +173,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Sendportal](https://github.com/mettle/sendportal) - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.
 - [Ferdinand](https://github.com/valyentdev/ferdinand) -  Open-source email delivery service for developers. `GNU Affero General Public License v3.0`, `templ`, `javascript`, `Go`
 - [Plunk](https://github.com/useplunk/plunk) - Open-Source Email Platform - `GNU Affero General Public License v3.0`, `typescript`
+- [Notifuse](https://github.com/Notifuse/notifuse) - Notifuse is an open-source & modern emailing platform - `GNU Affero General Public License v3.0`, `go`, `typescript`
 
 ### Newsletter Platform
 
