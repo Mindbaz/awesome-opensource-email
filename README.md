@@ -59,6 +59,7 @@ A curated list of resources on Email tools, server, framework, technology...
   - [DMARC](#dmarc)
   - [Privacy](#privacy)
 - [Disposable emails domain list](#disposable-emails-domain-list)
+- [Other](#other)
 
   
 
@@ -145,6 +146,7 @@ A curated list of resources on Email tools, server, framework, technology...
 
 - [Inbound SMTP to Webhook](https://github.com/sendbetter/inbound-email) - Receive email and sent parsed content/headers to webhook, attachments to S3.
 - [Mail-Parser](https://github.com/SpamScope/mail-parser) -  A tool that parses emails by enhancing the Python standard library, extracting all details into a comprehensive object. `Apache License 2.0`, `Python`
+- [Libratom](https://github.com/libratom/libratom) -  Python library and supporting utilities to parse and process PST and mbox email sources  - `MIT`, `Python`
 
 ## Deliverability
 
@@ -159,6 +161,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [email-validator-js](https://github.com/devmehq/email-validator-js) -  Verify email address checking MX records, and SMTP connection, check for disposable email addresses and free email providers. - `MIT`, `Typescript`
 - [python-email-validator](https://github.com/JoshData/python-email-validator) -  A robust email syntax and deliverability validation library for Python.  `The Unlicense`, `Python`
 - [validate-email](https://github.com/centminmod/validate-emails) -  Self-hosted email verification script to clean up bad invalid email address lists. Supports various commercial email verification provider APIs all in one script - `PHP`
+- [Selfsend - email-sanitizer-api](https://github.com/SelfSend/email-sanitizer-api) - A high-performance and secure REST/GraphQL API built with Rust, MongoDB & Redis for cleaning email subscriber lists. Maintains sender reputation by validating, deduplicating, and pruning inactive emails.  - `MIT`, `Rust`
 
 ### Reputation
 
@@ -183,6 +186,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [MailCarrier](https://github.com/mailcarrierapp/mailcarrier) - Mailing platform with templates and logs included. - `MIT`, `php`, `Laravel`
 - [RSS2Newsletter](https://github.com/ElliotKillick/rss2newsletter) - Convert RSS/Atom feed to email newsletters - `GNU Affero General Public License v3.0`, `Python`
 - [Notifuse](https://github.com/Notifuse/notifuse) - Notifuse is an open-source & modern emailing platform - `GNU Affero General Public License v3.0`, `go`, `typescript`
+
 
 ## Code
 
@@ -225,6 +229,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Premail](https://github.com/peterbe/premailer/) -  Turns CSS blocks into style attributes `BSD 3-Clause`, `Python`
 - [HowToTarget.email](https://github.com/customerio/howtotarget) - How to target email clients for email development.
 - [Email CSS Resets](https://github.com/JayOram/email-css-resets/tree/main) - List of email CSS normalise/resets.
+- [Vue-Email](https://github.com/vue-email/vue-email) - Write email templates with vue  - `MIT`, `Typescript`
 
 ## Editing
 
@@ -279,10 +284,6 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Viesti-Reports](https://github.com/antedebaas/Viesti-Reports) - DMARC & SMTP-TLS Reports processor and visualizer and BIMI file hoster - `GPL v2`, `PHP`
 
 
-
-
-
-
 ### Privacy
 
 - [SimpleLogin](https://github.com/simple-login/app) - Protect your online identity with email alias
@@ -294,3 +295,6 @@ A curated list of resources on Email tools, server, framework, technology...
 - [disposable-email-domains (another one too)](https://github.com/kslr/disposable-email-domains) -  Anti-cheating, temporary (disposable/throwaway) email list - `MIT`, `Javascript`
 - [email_data](https://github.com/fnando/email_data) -  This project is a compilation of datasets related to emails. Includes disposable emails, disposable domains, and free email services.  - `MIT`, `Ruby`
 - [disposable-email-domain-list](https://github.com/groundcat/disposable-email-domain-list) -  A list of disposable email domains, cleaned and validated by scanning MX records. - `MIT`, `Python`
+
+## Other
+- [Email-Expiration-Manager](https://github.com/Mindbaz/Email-Expiration-Manager) - Thunderbird extension for managing emails with expiration dates  - `GPL v-3`, `Javascript`
