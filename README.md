@@ -44,6 +44,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Email Platform](#email-platform)
   - [Marketing Platform](#marketing-platform)
   - [Newsletter Platform](#newsletter-platform)
+  - [Email API](#email-api)
 - [Code](#code)
   - [Framework](#framework)
   - [Templating](#templating)
@@ -186,6 +187,9 @@ A curated list of resources on Email tools, server, framework, technology...
 - [RSS2Newsletter](https://github.com/ElliotKillick/rss2newsletter) - Convert RSS/Atom feed to email newsletters - `GNU Affero General Public License v3.0`, `Python`
 - [Notifuse](https://github.com/Notifuse/notifuse) - Notifuse is an open-source & modern emailing platform - `GNU Affero General Public License v3.0`, `go`, `typescript`
 
+### Email API
+
+- [Hyvor](https://github.com/hyvor/) - `GNU AGPLv3`, `php`, `symfony`, `go`, `SvelteKit`, `Postgresql`
 
 ## Code
 
