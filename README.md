@@ -249,6 +249,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Drag and drop HTML email designer - `MIT`, `Typescript`
 - [email-builder-js](https://github.com/usewaypoint/email-builder-js) -  A free and open-source block-based email template builder - `MIT`, `Typescript`
 - [email-builder-wysiwyg](https://github.com/stefanraath3/email-builder-wysiwyg) - A Resend Template-style WYSIWYG email editor with Notion-like editing that generates email-safe React Email templates.  - `Typescript`
+- [maily.to](https://github.com/arikchakma/maily.to) -  Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. - `MIT`, `Typescript`
 
 
 ## Email Solution
