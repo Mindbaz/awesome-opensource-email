@@ -122,6 +122,7 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### SPAM Filtering
 
+- [Guardian](https://github.com/Mailuminati/Guardian) -  Fast and privacy-preserving email threat detection with shared intelligence. 
 - [Rspamd](https://github.com/rspamd/rspamd) - Advanced spam filtering system and email processing framework.
 - [AgentJ](https://github.com/Probesys/agentj) -  AgentJ is a free software anti-spam solution with human authentication and admin panel - `AGPL`, `PHP`
 - [Spamscope](https://github.com/SpamScope/spamscope) -  Fast Advanced Spam Analysis Tool. 
