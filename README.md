@@ -304,3 +304,4 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ## Other
 - [Email-Expiration-Manager](https://github.com/Mindbaz/Email-Expiration-Manager) - Thunderbird extension for managing emails with expiration dates  - `GPL v-3`, `Javascript`
+- [HyperAgency](https://github.com/vuics/h9y) agentic AI operating system (h9y.ai) with an omni-channel that sends/receives emails and generates email content with LLMs autonomously. - `Apache-2.0`, `JavaScript`
