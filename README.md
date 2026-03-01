@@ -265,6 +265,7 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### CLI
 - [Himalaya](https://github.com/soywod/himalaya) - CLI to manager email - `MIT`, `Rust`
+- [OpenPaw](https://github.com/daxaur/openpaw) - AI-powered CLI with Gmail and IMAP email skills, plus Slack, Discord, and more - `MIT`, `JavaScript`
 
 ## Security
 
