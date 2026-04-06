@@ -9,6 +9,7 @@ Awesome Opensource Email Resources
 
 A curated list of resources on Email tools, server, framework, technology...
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for open-source email workflow orchestration, automated mail server management, and multi-agent coordination. MIT licensed.
 ## Sponsors
 
 <p align="center">
