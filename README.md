@@ -164,6 +164,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [python-email-validator](https://github.com/JoshData/python-email-validator) -  A robust email syntax and deliverability validation library for Python.  `The Unlicense`, `Python`
 - [validate-email](https://github.com/centminmod/validate-emails) -  Self-hosted email verification script to clean up bad invalid email address lists. Supports various commercial email verification provider APIs all in one script - `PHP`
 - [Selfsend - email-sanitizer-api](https://github.com/SelfSend/email-sanitizer-api) - A high-performance and secure REST/GraphQL API built with Rust, MongoDB & Redis for cleaning email subscriber lists. Maintains sender reputation by validating, deduplicating, and pruning inactive emails.  - `MIT`, `Rust`
+- [DeliverIQ MCP](https://github.com/Davison-Francis/min8t-sdks) - MCP (Model Context Protocol) server exposing 12 email-deliverability tools to AI agents like Claude Desktop and Cursor. 21 checks across 5 stages (RFC 5322 syntax, disposable domain detection on 164k+ domains, SMTP handshake with catch-all probe, 50 DNSBL zones, DMARC/SPF/DKIM analysis, spam-trap heuristic scoring). On npm as `@deliveriq/mcp`. - `MIT`, `Typescript`
 
 ### Reputation
 
