@@ -279,6 +279,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Mailgoose](https://github.com/CERT-Polska/mailgoose) -  A web application that allows the users to check whether their SPF, DMARC and DKIM configuration is set up correctly. - `BSD 3-Clause "New" or "Revised" License`, `Python`
 - [mxcheck](https://github.com/steffenfritz/mxcheck) -  mxcheck is an info and security scanner for e-mail servers. `GPL v-3`, `Go`
 - [Spamhaus-Intelligence-API-CLI](https://github.com/Mindbaz/Spamhaus-Intelligence-API-CLI) -  CLI to query Spamhaus Intelligence API `GPL v-3`, `Python`
+- [ReviewMyDNS](https://reviewmydns.com/) - A free, web-based DNS and email deliverability checker with a focus on plain-English explanations for non-technical users. - `Website`
 
 
 ### DMARC
