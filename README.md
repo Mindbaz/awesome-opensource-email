@@ -267,6 +267,7 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### CLI
 - [Himalaya](https://github.com/soywod/himalaya) - CLI to manager email - `MIT`, `Rust`
+- [MailKite server-panel recipes](https://github.com/mailkite/forge) - One-command email wiring (SMTP relay + inbound webhook) for Laravel Forge, Ploi & RunCloud sites - `MIT`, `Node.js`
 
 ## Security
 
