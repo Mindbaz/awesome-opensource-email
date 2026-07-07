@@ -303,6 +303,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [disposable-email-domains (another one too)](https://github.com/kslr/disposable-email-domains) -  Anti-cheating, temporary (disposable/throwaway) email list - `MIT`, `Javascript`
 - [email_data](https://github.com/fnando/email_data) -  This project is a compilation of datasets related to emails. Includes disposable emails, disposable domains, and free email services.  - `MIT`, `Ruby`
 - [disposable-email-domain-list](https://github.com/groundcat/disposable-email-domain-list) -  A list of disposable email domains, cleaned and validated by scanning MX records. - `MIT`, `Python`
+- [disposable-email-domains (Verifly)](https://github.com/james-sib/disposable-email-domains) -  Daily-refreshed master list of ~162,000 disposable/temporary email domains, plus role-account local-parts and verified dead-MX domains, in txt and JSON. - `MIT`, `Python`
 
 ## Other
 - [Email-Expiration-Manager](https://github.com/Mindbaz/Email-Expiration-Manager) - Thunderbird extension for managing emails with expiration dates  - `GPL v-3`, `Javascript`
