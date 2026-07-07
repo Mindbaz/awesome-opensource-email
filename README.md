@@ -307,3 +307,5 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ## Other
 - [Email-Expiration-Manager](https://github.com/Mindbaz/Email-Expiration-Manager) - Thunderbird extension for managing emails with expiration dates  - `GPL v-3`, `Javascript`
+- [Imapsync](https://github.com/imapsync/imapsync) -  Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is   - `No Public License`, `Shell`
+
