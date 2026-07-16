@@ -234,6 +234,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [HowToTarget.email](https://github.com/customerio/howtotarget) - How to target email clients for email development.
 - [Email CSS Resets](https://github.com/JayOram/email-css-resets/tree/main) - List of email CSS normalise/resets.
 - [Vue-Email](https://github.com/vue-email/vue-email) - Write email templates with vue  - `MIT`, `Typescript`
+- [Emailens Engine](https://github.com/emailens/engine) - Lint HTML emails against 250+ CSS properties across 15 email clients: compatibility scoring, dark mode simulation, accessibility and spam checks - `MIT`, `Typescript`
 
 ## Editing
 
