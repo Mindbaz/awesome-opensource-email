@@ -132,6 +132,8 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### Inbox API
 
+- [Agent Post Office](https://github.com/Agent-Post-Office/agentpostoffice-cloudflare) - Self-hosted custom-domain inbox API for AI agents on Cloudflare, with REST, CLI, MCP, threading, and attachment support. Developer preview. - `Apache-2.0`, `TypeScript`, `Cloudflare Workers`
+
 ### Forwarding
 
 - [Anonaddy](https://github.com/anonaddy/anonaddy) -  Anonymous email forwarding 
