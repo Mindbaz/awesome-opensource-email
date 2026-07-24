@@ -177,6 +177,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Mautic](https://github.com/mautic/mautic) - Open Source Marketing Automation Software
 - [Sendportal](https://github.com/mettle/sendportal) - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.
 - [Plunk](https://github.com/useplunk/plunk) - Open-Source Email Platform - `GNU Affero General Public License v3.0`, `typescript`
+- [Warmbly](https://github.com/warmbly/warmbly) - AI-native cold email and warmup platform with campaign automation and deliverability controls. - `Apache-2.0`, `Go`, `Typescript`
 
 ### Newsletter Platform
 
