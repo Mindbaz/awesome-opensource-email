@@ -291,6 +291,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [dmarcts-report-parser](https://github.com/techsneeze/dmarcts-report-parser) -  A Perl based tool to parse DMARC reports from an IMAP mailbox or from the filesystem, and insert the information into a database. ( Formerly known as imap-dmarcts ) - `GNU GPL v3`, `Perl`
 - [checkdmarc](https://github.com/domainaware/checkdmarc) -  A parser for SPF and DMARC DNS records - `Apache License version 2.0`, `Python`
 - [Viesti-Reports](https://github.com/antedebaas/Viesti-Reports) - DMARC & SMTP-TLS Reports processor and visualizer and BIMI file hoster - `GPL v2`, `PHP`
+- [DMARC Analyzer](https://github.com/dmarc-analyzer-net/DmarcAnalyzerApp) -  Self-hosted DMARC aggregate report monitoring with per-client dashboards and multi-tenant separation; also ingests MTA-STS and TLS-RPT reports  - `Apache License version 2.0`, `C#`
 
 
 ### Privacy
