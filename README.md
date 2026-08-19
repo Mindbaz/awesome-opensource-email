@@ -191,6 +191,7 @@ A curated list of resources on Email tools, server, framework, technology...
 ### Email API
 
 - [Hyvor](https://github.com/hyvor/) - `GNU AGPLv3`, `php`, `symfony`, `go`, `SvelteKit`, `Postgresql`
+- [Reloop](https://github.com/reloop-labs/reloop) - Send and receive email with a REST API and SMTP. Alternative to Resend, SendGrid, and Postmark.
 
 ## Code
 
