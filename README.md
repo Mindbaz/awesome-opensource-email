@@ -227,6 +227,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) -  The classic email sending library for PHP
 - [Anymail](https://github.com/anymail/django-anymail/) - Django email backends and webhooks for multiple ESP - `BSD 3-Clause`, `Python`
 - [Swoosh](https://github.com/swoosh/swoosh) -  Compose, deliver and test your emails easily in Elixir - `MIT`, `Elixir`
+- [rfc5322](https://github.com/AH64-dll/rfc5322) - Strict RFC 5322 email-address parser for Python, full ABNF grammar, strict + permissive modes - `MIT`, `Python`
 
 ### Other
 
