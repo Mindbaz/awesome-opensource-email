@@ -227,6 +227,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) -  The classic email sending library for PHP
 - [Anymail](https://github.com/anymail/django-anymail/) - Django email backends and webhooks for multiple ESP - `BSD 3-Clause`, `Python`
 - [Swoosh](https://github.com/swoosh/swoosh) -  Compose, deliver and test your emails easily in Elixir - `MIT`, `Elixir`
+- [email-server](https://github.com/colocohen/email-server) - Complete mail stack in one package: SMTP, IMAP and POP3 — server and client — with DKIM, SPF, DMARC and MTA-STS built in. Bring your own storage. - `Apache 2.0`, `Nodejs`
 
 ### Other
 
