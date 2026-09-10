@@ -144,6 +144,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [MailPit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers  - `MIT`, `Go`
 - [Robin](https://github.com/mimecast/robin) -  Debug and development tool for MTA architects! Robin is a highly configurable SMTP client for testing and debugging SMTP servers. - `Java`, `Apache License 2.0`
 - [MailKite Server](https://github.com/mailkite/server) - Programmable mail server for apps and AI agents: Haraka-based SMTP (MX + submission), IMAP server, SQLite backend and web console; self-hosted via Docker Compose - `AGPL-3.0`, `Nodejs`
+- [zerosmtp-check](https://github.com/msgwing/ZeroSMTP/tree/main/packages/zerosmtp-check) - Checks whether outbound SMTP actually works from a machine: TCP reachability, STARTTLS and implicit TLS, and whether AUTH is offered, against any host and port. Runs with npx, no install, JSON output for monitoring. - `MIT`, `Nodejs`
 
 ### Inbound - Mail Parser
 
