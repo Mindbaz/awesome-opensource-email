@@ -194,6 +194,7 @@ A curated list of resources on Email tools, server, framework, technology...
 ### Email API
 
 - [Hyvor](https://github.com/hyvor/) - `GNU AGPLv3`, `php`, `symfony`, `go`, `SvelteKit`, `Postgresql`
+- [MailySend](https://github.com/GagnDeep/mailysend) - Resend-compatible email API with transactional sending, broadcasts, inbound mailboxes, webhooks and deliverability analytics, running in your own account - `MIT`, `typescript`, `Cloudflare Workers`, `Nodejs`, `SQLite`
 
 ## Code
 
