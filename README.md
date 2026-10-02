@@ -129,6 +129,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [ASSP](https://sourceforge.net/p/assp/wiki/Main_Page/) - The Anti-Spam SMTP Proxy (ASSP).
 - [Spamassassin](https://spamassassin.apache.org/) - Open Source anti-spam platform - `Apache License Version 2.0`, `Perl`, `C`
 - [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway/overview) - Full-featured, open-source mail proxy and protects your mail server from spam, viruses, trojans, and phishing emails - `GNU AGPLv3`
+- [Spammish](https://github.com/nickfrench-gtm/spammish) - Local-first Gmail filtering that uses deterministic evidence scoring to move unwanted email into a recoverable Abyss label - `MIT`, `JavaScript`
 
 ### Inbox API
 
