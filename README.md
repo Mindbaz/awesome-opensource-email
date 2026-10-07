@@ -104,6 +104,9 @@ A curated list of resources on Email tools, server, framework, technology...
 - [JMAP](https://github.com/jmapio/jmap) -  JSON Meta Application Protocol Specification (JMAP) Specification
 - [James](https://github.com/apache/james-project) - James stands for Java Apache Mail Enterprise Server! - `Apache License Version 2.0`, `Java`
 - [Gomap](https://github.com/cwinters8/gomap) -  Go module for interfacing with JMAP servers 
+- [Bulwark legacy-proxy](https://github.com/bulwarkmail/legacy-proxy) - JMAP server that sits in front of an existing IMAP/SMTP/ManageSieve/CardDAV stack, so JMAP clients work without migrating the mail - `AGPLv3`, `TypeScript`
+- [Bulwark JMAP Mail for WordPress](https://github.com/bulwarkmail/wordpress-jmap) - WordPress plugin that sends `wp_mail()` through a JMAP server instead of SMTP - `AGPLv3`, `PHP`
+- [JMAP Mail for Home Assistant](https://github.com/bulwarkmail/homeassistant-jmap) - Home Assistant integration for any JMAP server: push new-mail events, send mail, unread sensors - `MIT`, `Python`
 
 
 ### Complete Email Server
@@ -270,6 +273,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Mailcow](https://mailcow.email/) - The mailserver suite with the 'moo' – 🐮 + 🐋 = 💕
 - [Cypht](https://github.com/cypht-org/cypht) -  Cypht: Lightweight Open Source webmail written in PHP and JavaScript - `GNU Lesser General Public License v2.1`, `PHP`, `Javascript`
 - [Egroupware](https://github.com/EGroupware/egroupware) - Web based groupware server written in PHP - `GPLv2`, `PHP`
+- [Bulwark Webmail](https://github.com/bulwarkmail/webmail) - Self-hosted JMAP webmail for Stalwart with mail, calendar, contacts and files in one client - `AGPLv3`, `TypeScript`
 
 ### CLI
 - [Himalaya](https://github.com/soywod/himalaya) - CLI to manager email - `MIT`, `Rust`
