@@ -174,6 +174,7 @@ A curated list of resources on Email tools, server, framework, technology...
 
 - [Google Postmaster Datas](https://github.com/Mindbaz/python-gpostmaster-domains-datas) - Downloads and flattends datas from Google Postmaster Tools (GPT)
 - [Python Hetrixtools Blacklist](https://github.com/Mindbaz/python-hetrixtools-blacklist) - Tool to retrieve @hetrixtools data from their API and store them in flat file or in a database
+- [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted monitor that alerts when a mail server IP or hostname lands on a DNS blocklist, with SMTP, IMAP, POP3 and JMAP checks too. - `AGPL-3.0`, `Go`
 
 ## Email Platform
 
