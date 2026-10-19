@@ -243,6 +243,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Email CSS Resets](https://github.com/JayOram/email-css-resets/tree/main) - List of email CSS normalise/resets.
 - [Vue-Email](https://github.com/vue-email/vue-email) - Write email templates with vue  - `MIT`, `Typescript`
 - [Emailens Engine](https://github.com/emailens/engine) - Lint HTML emails against 250+ CSS properties across 15 email clients: compatibility scoring, dark mode simulation, accessibility and spam checks - `MIT`, `Typescript`
+- [express-email-otp-login](https://github.com/manishgupta412/express-email-otp-login) - Passwordless login for Express: hashed single-use email codes and magic links with rate limits, sent through the Mailtrap API - `MIT`, `Typescript`
 
 ## Editing
 
