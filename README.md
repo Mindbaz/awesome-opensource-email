@@ -215,6 +215,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Maud](https://github.com/lambda-fairy/maud) - Compile-time HTML templates for Rust  - `MIT`, `Apache License`, `Rust`
 - [Foundation for Emails 2](https://github.com/foundation/foundation-emails) -  Quickly create responsive HTML emails that work on any device and client. Even Outlook. - `MIT`, `HTML`
 - [Inky](https://github.com/foundation/inky) - Convert a simple HTML syntax into tables compatible with Foundation for Emails. 
+- [Groundmail Email Templates](https://github.com/Groundmail/email-templates) - 12 free, MIT-licensed transactional email templates (auth, account, billing) in React Email, MJML, HTML and plain text, with dark mode. - `MIT`, `Typescript`
 
 ### Library
 
