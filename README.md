@@ -244,6 +244,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Email CSS Resets](https://github.com/JayOram/email-css-resets/tree/main) - List of email CSS normalise/resets.
 - [Vue-Email](https://github.com/vue-email/vue-email) - Write email templates with vue  - `MIT`, `Typescript`
 - [Emailens Engine](https://github.com/emailens/engine) - Lint HTML emails against 250+ CSS properties across 15 email clients: compatibility scoring, dark mode simulation, accessibility and spam checks - `MIT`, `Typescript`
+- [nextjs-waitlist-double-opt-in](https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in) - Next.js waitlist with double opt-in, a referral queue and a bulk launch email, sent through the Mailtrap API - `MIT`, `Typescript`
 
 ## Editing
 
