@@ -275,6 +275,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Cypht](https://github.com/cypht-org/cypht) -  Cypht: Lightweight Open Source webmail written in PHP and JavaScript - `GNU Lesser General Public License v2.1`, `PHP`, `Javascript`
 - [Egroupware](https://github.com/EGroupware/egroupware) - Web based groupware server written in PHP - `GPLv2`, `PHP`
 - [Bulwark Webmail](https://github.com/bulwarkmail/webmail) - Self-hosted JMAP webmail for Stalwart with mail, calendar, contacts and files in one client - `AGPLv3`, `TypeScript`
+- [Aster Mail](https://github.com/Aster-Privacy/Aster-Mail) - Encrypted email with post-quantum encryption between Aster accounts, OpenPGP, aliases, custom domains, Tor access and web, desktop and Android apps - `AGPLv3`, `TypeScript`
 
 ### CLI
 - [Himalaya](https://github.com/soywod/himalaya) - CLI to manager email - `MIT`, `Rust`
