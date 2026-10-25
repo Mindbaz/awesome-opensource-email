@@ -292,6 +292,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [mxcheck](https://github.com/steffenfritz/mxcheck) -  mxcheck is an info and security scanner for e-mail servers. `GPL v-3`, `Go`
 - [Spamhaus-Intelligence-API-CLI](https://github.com/Mindbaz/Spamhaus-Intelligence-API-CLI) -  CLI to query Spamhaus Intelligence API `GPL v-3`, `Python`
 - [inboxproof-cli](https://github.com/jtc268/inboxproof-cli) -  CLI that audits a domain's email deliverability (MX, SPF, DKIM, DMARC, PTR, SMTP STARTTLS) and prints a 0-100 spam-risk score
+- [email-forgery-check](https://github.com/Stephen-Psaradellis/email-forgery-check) -  Single-page browser tool that checks a domain's SPF, DMARC and common DKIM selectors over DNS-over-HTTPS and prints the records to add for its mail provider; no server, nothing stored - `MIT`, `JavaScript`
 
 
 ### DMARC
