@@ -195,6 +195,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [RSS2Newsletter](https://github.com/ElliotKillick/rss2newsletter) - Convert RSS/Atom feed to email newsletters - `GNU Affero General Public License v3.0`, `Python`
 - [Notifuse](https://github.com/Notifuse/notifuse) - Notifuse is an open-source & modern emailing platform - `GNU Affero General Public License v3.0`, `go`, `typescript`
 - [Ownlist](https://github.com/pfstr/ownlist) - Serverless newsletter on your own Cloudflare account (Workers + D1): signup form, one-click unsubscribe, queued campaigns, RSS-to-email; bring your own email API. - `MIT`, `typescript`, `Cloudflare Workers`
+- [SendLit](https://github.com/codelitdev/sendlit) - Open-source email platform for newsletters, campaigns and sequences via your own SES/SMTP, with a provisioning API and embeddable editor. - `AGPL-3.0`, `typescript`
 
 ### Email API
 
