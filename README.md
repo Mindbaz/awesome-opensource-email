@@ -138,6 +138,7 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### Forwarding
 
+- [AliasMail Relay](https://github.com/anshu4sharma/aliasmail-relay) - Self-hostable privacy email forwarding relay and webhook gateway with HMAC-SHA256 signature verification - `MIT`, `TypeScript`, `Docker`
 - [Anonaddy](https://github.com/anonaddy/anonaddy) -  Anonymous email forwarding 
 
 ### SMTP Testing
