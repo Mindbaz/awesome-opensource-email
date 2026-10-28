@@ -245,6 +245,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Vue-Email](https://github.com/vue-email/vue-email) - Write email templates with vue  - `MIT`, `Typescript`
 - [Emailens Engine](https://github.com/emailens/engine) - Lint HTML emails against 250+ CSS properties across 15 email clients: compatibility scoring, dark mode simulation, accessibility and spam checks - `MIT`, `Typescript`
 - [EMAIL.md](https://github.com/kingadow/email-design-md) - A free design system for email that AI can follow, with a Figma checklist, Claude skills and a full demo brand - `MIT`, `Markdown`
+- [express-email-otp-login](https://github.com/parv15/express-email-otp-login) - Passwordless login for Express with email one-time codes and magic links, sent via an email API - `MIT`, `Typescript`
 
 ## Editing
 
