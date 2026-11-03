@@ -312,6 +312,7 @@ A curated list of resources on Email tools, server, framework, technology...
 ### Privacy
 
 - [SimpleLogin](https://github.com/simple-login/app) - Protect your online identity with email alias
+- [anon.li](https://github.com/anondotli/anon.li) - Email aliases that forward to your real inbox, with replies through the alias, custom domains, optional PGP forwarding and tracker removal, plus end-to-end encrypted file sharing and forms - `AGPLv3`
 
 ### Disposable emails domain list
 - [disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains - `Public Domain`, `Python`
