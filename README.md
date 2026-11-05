@@ -307,6 +307,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Viesti-Reports](https://github.com/antedebaas/Viesti-Reports) - DMARC & SMTP-TLS Reports processor and visualizer and BIMI file hoster - `GPL v2`, `PHP`
 - [DMARC Analyzer](https://github.com/dmarc-analyzer-net/DmarcAnalyzerApp) -  Self-hosted DMARC aggregate report monitoring with per-client dashboards and multi-tenant separation; also ingests MTA-STS and TLS-RPT reports  - `Apache License version 2.0`, `C#`
 - [dmarc-rua](https://github.com/domaincanary/dmarc-rua) - Parses DMARC aggregate reports from XML, .xml.gz and .zip and extracts them from report email. Runs on Deno, Node.js, Bun and Cloudflare Email Workers - `MIT`, `TypeScript`
+- [Parse DMARC](https://github.com/dmarcguardhq/parse-dmarc) -  Fetches DMARC aggregate reports over IMAP or from a Maildir, stores them in SQLite and shows them in a web dashboard, with Prometheus metrics and an MCP server. One Go binary  - `Apache License version 2.0`, `Go`
 - [dmarc-report-reader](https://github.com/jaimepaslart/dmarc-report-reader) - Zero-dependency parser for DMARC aggregate reports (.xml, .xml.gz, .zip) that summarises sending sources with SPF/DKIM alignment and p=reject readiness. Runs in the browser and Node.js - `MIT`, `TypeScript`
 
 ### Privacy
