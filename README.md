@@ -91,6 +91,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required. 
 - [Opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Selfhosted trashmail solution - Receive Emails via Web UI, JSON API and RSS feed
 - [TestMSG](https://github.com/yaroslaff/testmsg) - Generate RFC-compliant e-mail messages for sending over SMTP. DKIM signed (optionally). - `MIT`, `Python`
+- [Maily](https://github.com/stormsia/maily) - Open-source disposable email gateway and REST API aggregating 8+ providers with web dashboard and automated verification code extraction - `Python`, `Docker`
 
 ### IMAP/POP Server
 
