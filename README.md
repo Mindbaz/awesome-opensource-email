@@ -218,6 +218,8 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### Library
 
+- [Sequenzy TypeScript SDK](https://github.com/Sequenzy/sequenzy-typescript) - TypeScript and JavaScript client for subscriber management, email campaigns and transactional email through the hosted Sequenzy API; requires a Sequenzy account and API key - `Apache-2.0`, `TypeScript`
+
 - [ballerina-email](https://github.com/ballerina-platform/module-ballerina-email) - Easy to use, yet comprehensive library for sending mails with Ballerina - `Apache 2.0`, `Ballerina`
 - [go-smtp](https://github.com/emersion/go-smtp) - An SMTP client & server library written in Go - `MIT`, `Go`
 - [go-mail](https://github.com/wneessen/go-mail) - Easy to use, yet comprehensive library for sending mails with Go - `MIT`, `Go`
