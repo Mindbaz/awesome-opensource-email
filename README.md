@@ -170,6 +170,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [validate-email](https://github.com/centminmod/validate-emails) -  Self-hosted email verification script to clean up bad invalid email address lists. Supports various commercial email verification provider APIs all in one script - `PHP`
 - [Selfsend - email-sanitizer-api](https://github.com/SelfSend/email-sanitizer-api) - A high-performance and secure REST/GraphQL API built with Rust, MongoDB & Redis for cleaning email subscriber lists. Maintains sender reputation by validating, deduplicating, and pruning inactive emails.  - `MIT`, `Rust`
 - [BounceLens go-email-check](https://github.com/bouncelens/go-email-check) - A Go library and Docker image that checks email addresses for bad format, dead domains, typos and disposable domains. No SMTP connection. - `MIT`, `Go`
+- [looot-csv-enrich](https://github.com/loootai/looot-csv-enrich) - A CLI that adds email check, work email, company and phone columns to a CSV, with a cost quote before the run. Checks go through the paid looot API, so it needs an API key. - `MIT`, `TypeScript`
 
 ### Reputation
 
