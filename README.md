@@ -184,6 +184,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Sendportal](https://github.com/mettle/sendportal) - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.
 - [Plunk](https://github.com/useplunk/plunk) - Open-Source Email Platform - `GNU Affero General Public License v3.0`, `typescript`
 - [Xem](https://xem.email/) - Open-source email marketing with campaigns, editable templates, contact lists, and bring-your-own SMTP delivery. ([Source code](https://github.com/mailxem/xem.go)) - `GPLv3`, `Go`, `TypeScript`
+- [Scribase Mail](https://github.com/caelum0x/scribase-mail-studio) - Resend-compatible transactional and marketing email API, SMTP relay, dashboard, campaigns and webhooks, self-hostable or hosted. - `GNU Affero General Public License v3.0`, `TypeScript`
 
 ### Newsletter Platform
 
