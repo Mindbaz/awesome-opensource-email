@@ -199,6 +199,8 @@ A curated list of resources on Email tools, server, framework, technology...
 ### Email API
 
 - [Hyvor](https://github.com/hyvor/) - `GNU AGPLv3`, `php`, `symfony`, `go`, `SvelteKit`, `Postgresql`
+- [Senlo](https://github.com/IgorFilippov3/senlo) - Transactional email platform with a visual MJML editor, API, and automations on top of your own provider (Resend, Postmark, SES, SMTP). ([Website](https://senlo.io)) - `GNU AGPLv3`, `TypeScript`, `Next.js`
+
 
 ## Code
 
