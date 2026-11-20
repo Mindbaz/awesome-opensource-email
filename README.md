@@ -185,6 +185,10 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Plunk](https://github.com/useplunk/plunk) - Open-Source Email Platform - `GNU Affero General Public License v3.0`, `typescript`
 - [Xem](https://xem.email/) - Open-source email marketing with campaigns, editable templates, contact lists, and bring-your-own SMTP delivery. ([Source code](https://github.com/mailxem/xem.go)) - `GPLv3`, `Go`, `TypeScript`
 
+### Cold Email / Outreach
+
+- [WarmySender](https://github.com/warmysender-oss/warmysender) - Open-source Instantly alternative you can self-host. Sequences, a unified inbox, and an MCP server for AI agents, with send limits built into the code. - `AGPL-3.0`, `TypeScript`
+
 ### Newsletter Platform
 
 - [Listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. 
