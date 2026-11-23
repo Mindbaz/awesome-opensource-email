@@ -308,6 +308,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [DMARC Analyzer](https://github.com/dmarc-analyzer-net/DmarcAnalyzerApp) -  Self-hosted DMARC aggregate report monitoring with per-client dashboards and multi-tenant separation; also ingests MTA-STS and TLS-RPT reports  - `Apache License version 2.0`, `C#`
 - [dmarc-rua](https://github.com/domaincanary/dmarc-rua) - Parses DMARC aggregate reports from XML, .xml.gz and .zip and extracts them from report email. Runs on Deno, Node.js, Bun and Cloudflare Email Workers - `MIT`, `TypeScript`
 - [dmarc-report-reader](https://github.com/jaimepaslart/dmarc-report-reader) - Zero-dependency parser for DMARC aggregate reports (.xml, .xml.gz, .zip) that summarises sending sources with SPF/DKIM alignment and p=reject readiness. Runs in the browser and Node.js - `MIT`, `TypeScript`
+- [inboxshield-cli](https://github.com/zColdWater/inboxshield-cli) - Zero-dependency CLI & GitHub Action auditing live SPF (with recursive 10-lookup flattening), 24-selector DKIM, DMARC, MTA-STS, TLS-RPT, DANE, BIMI, and 5 DNSBLs - `MIT`, `JavaScript`
 
 ### Privacy
 
