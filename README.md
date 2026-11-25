@@ -294,6 +294,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Spamhaus-Intelligence-API-CLI](https://github.com/Mindbaz/Spamhaus-Intelligence-API-CLI) -  CLI to query Spamhaus Intelligence API `GPL v-3`, `Python`
 - [inboxproof-cli](https://github.com/jtc268/inboxproof-cli) -  CLI that audits a domain's email deliverability (MX, SPF, DKIM, DMARC, PTR, SMTP STARTTLS) and prints a 0-100 spam-risk score
 - [smtp-dane-verify](https://github.com/sys4/smtp-dane-verify) - SMTP DANE verify is a service that let’s you monitor and detect typical DANE related problems for DANE-enabled inbound SMTP services. `AGPL v-3`, `Python`
+- [Postmaster of Puppets](https://github.com/randyesperben/postmaster-of-puppets) - Checks a domain's MX, SPF, DKIM and DMARC records over DNS-over-HTTPS and says whether anyone can send email as it, with the records that fix it. Runs in the browser or Node. - `MIT`, `TypeScript`
 
 
 ### DMARC
