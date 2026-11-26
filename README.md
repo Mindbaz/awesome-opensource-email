@@ -277,6 +277,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Egroupware](https://github.com/EGroupware/egroupware) - Web based groupware server written in PHP - `GPLv2`, `PHP`
 - [Bulwark Webmail](https://github.com/bulwarkmail/webmail) - Self-hosted JMAP webmail for Stalwart with mail, calendar, contacts and files in one client - `AGPLv3`, `TypeScript`
 - [Aster Mail](https://github.com/Aster-Privacy/Aster-Mail) - Encrypted email with post-quantum encryption between Aster accounts, OpenPGP, aliases, custom domains, Tor access and web, desktop and Android apps - `AGPLv3`, `TypeScript`
+- [DAAK-Redmono Mail UI](https://github.com/benfirad/daak-redmono-mail-ui) - Modern floating-workspace skin for Roundcube Webmail extending the official Elastic theme with full internal-page parity - `GPLv3`, `CSS`, `JavaScript`
 
 ### CLI
 - [Himalaya](https://github.com/soywod/himalaya) - CLI to manager email - `MIT`, `Rust`
