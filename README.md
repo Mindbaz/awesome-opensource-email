@@ -91,6 +91,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [Inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required. 
 - [Opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Selfhosted trashmail solution - Receive Emails via Web UI, JSON API and RSS feed
 - [TestMSG](https://github.com/yaroslaff/testmsg) - Generate RFC-compliant e-mail messages for sending over SMTP. DKIM signed (optionally). - `MIT`, `Python`
+- [MailGate](https://github.com/Dicka18/mailgate) - Self-hosted receive-only OTP and magic-link email inbox built on Cloudflare Email Routing, Workers, and D1, with a zero-dependency Playwright SDK, CLI, and MCP server for E2E authentication testing. - `MIT`, `TypeScript`
 
 ### IMAP/POP Server
 
